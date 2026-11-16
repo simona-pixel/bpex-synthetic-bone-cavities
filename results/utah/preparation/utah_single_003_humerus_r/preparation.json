@@ -1,0 +1,191 @@
+{
+  "after_vertex_merge": {
+    "bbox_extents_mm": [
+      98.20029926300049,
+      86.31740379333496,
+      365.18853759765625
+    ],
+    "bbox_volume_mm3": 3095482.2518286584,
+    "body_count": 1,
+    "degenerate_faces": 0,
+    "euler_number": 2,
+    "faces": 213762,
+    "geometry_sha256": "af746c368b98a49fbf6364ca51c92e49dad9b039c0f3aa2fa550daf0d3d9882c",
+    "is_volume": true,
+    "surface_area_mm2": 38872.086357802815,
+    "vertices": 106883,
+    "volume_mm3": 241264.02533353423,
+    "watertight": true,
+    "winding_consistent": true
+  },
+  "aligned_before_export": {
+    "bbox_extents_mm": [
+      71.10242588934008,
+      49.85121907590536,
+      371.9304880231505
+    ],
+    "bbox_volume_mm3": 1318323.462695831,
+    "body_count": 1,
+    "degenerate_faces": 0,
+    "euler_number": 2,
+    "faces": 213762,
+    "geometry_sha256": "b85b6f0c3fd7e25082774fe33a22c9f1198c64207c526ff816d480eac74538f7",
+    "is_volume": true,
+    "surface_area_mm2": 38872.08635780282,
+    "vertices": 106883,
+    "volume_mm3": 241264.02533353434,
+    "watertight": true,
+    "winding_consistent": true
+  },
+  "allowed_operations": [
+    "source object concatenation",
+    "coincident vertex merge without smoothing",
+    "largest face-connected component selection",
+    "normal orientation",
+    "rigid PCA centering and alignment",
+    "binary STL serialization"
+  ],
+  "case_id": "utah_single_003_humerus_r",
+  "coincident_vertex_merge": {
+    "vertices_after": 106883,
+    "vertices_before": 641286
+  },
+  "components_ranked": [
+    {
+      "bbox_extents_mm": [
+        98.20029926300049,
+        86.31740379333496,
+        365.18853759765625
+      ],
+      "bbox_volume_mm3": 3095482.2518286584,
+      "body_count": 1,
+      "component_index": 0,
+      "degenerate_faces": 0,
+      "euler_number": 2,
+      "faces": 213762,
+      "geometry_sha256": "b07f6021b7c2b385daa2ff4235421c43406cb4c9d7e5164dd932ed4eda8a9af5",
+      "is_volume": true,
+      "selection_rank": 1,
+      "surface_area_mm2": 38872.086357802815,
+      "vertices": 106883,
+      "volume_mm3": 241264.02533353426,
+      "watertight": true,
+      "winding_consistent": true
+    }
+  ],
+  "forbidden_operations_applied": [],
+  "longitudinal_length_mm": 371.9304962158203,
+  "output": "<REVISION_ROOT>/external_extension_2026_11_12/inputs/prepared/utah_single_003_humerus_r/prepared.stl",
+  "output_sha256": "14a4ec714f5894d68a3a5428c3b26e3a8a04fe743e39b44c04495835f6d4415f",
+  "pca_transformation": {
+    "basis_columns_original_coordinates": [
+      [
+        0.6705350829801744,
+        -0.7299079418493807,
+        -0.13272941994136736
+      ],
+      [
+        0.7248761460337868,
+        0.6826801433183096,
+        -0.09220843144797779
+      ],
+      [
+        0.15791540584748193,
+        -0.03438340215995693,
+        0.9868538423960925
+      ]
+    ],
+    "centroid_original_mm": [
+      -45.9669121640757,
+      -64.55629765297567,
+      -1169.3807916922922
+    ],
+    "covariance_eigenvalues_mm2": [
+      18588.283121385146,
+      207.62664989089527,
+      127.47484123546602
+    ],
+    "determinant": 1.0,
+    "formula": "prepared_row = (original_row - centroid_row) @ basis"
+  },
+  "prepared_after_export": {
+    "bbox_extents_mm": [
+      71.10242462158203,
+      49.851219177246094,
+      371.9304962158203
+    ],
+    "bbox_volume_mm3": 1318323.470909329,
+    "body_count": 1,
+    "degenerate_faces": 0,
+    "euler_number": 2,
+    "faces": 213762,
+    "geometry_sha256": "dc8300b76f9205be6ebedb5bef4ad9d9c6b9a072894b5e5b14d46c93646d93b8",
+    "is_volume": true,
+    "surface_area_mm2": 38872.08634151994,
+    "vertices": 106883,
+    "volume_mm3": 241264.02541589292,
+    "watertight": true,
+    "winding_consistent": true
+  },
+  "raw_loaded": {
+    "bbox_extents_mm": [
+      98.20029926300049,
+      86.31740379333496,
+      365.18853759765625
+    ],
+    "bbox_volume_mm3": 3095482.2518286584,
+    "body_count": 213762,
+    "degenerate_faces": 0,
+    "euler_number": 213762,
+    "faces": 213762,
+    "geometry_sha256": "e970805a47f26e5ea076381fe30fe8fd1956804aeadd89a9a8d53206abff9cd5",
+    "is_volume": false,
+    "surface_area_mm2": 38872.086357802815,
+    "vertices": 641286,
+    "volume_mm3": 241264.02533353423,
+    "watertight": false,
+    "winding_consistent": true
+  },
+  "schema_version": 1,
+  "selected_after_normals": {
+    "bbox_extents_mm": [
+      98.20029926300049,
+      86.31740379333496,
+      365.18853759765625
+    ],
+    "bbox_volume_mm3": 3095482.2518286584,
+    "body_count": 1,
+    "degenerate_faces": 0,
+    "euler_number": 2,
+    "faces": 213762,
+    "geometry_sha256": "b07f6021b7c2b385daa2ff4235421c43406cb4c9d7e5164dd932ed4eda8a9af5",
+    "is_volume": true,
+    "surface_area_mm2": 38872.086357802815,
+    "vertices": 106883,
+    "volume_mm3": 241264.02533353426,
+    "watertight": true,
+    "winding_consistent": true
+  },
+  "selected_before_normals": {
+    "bbox_extents_mm": [
+      98.20029926300049,
+      86.31740379333496,
+      365.18853759765625
+    ],
+    "bbox_volume_mm3": 3095482.2518286584,
+    "body_count": 1,
+    "degenerate_faces": 0,
+    "euler_number": 2,
+    "faces": 213762,
+    "geometry_sha256": "b07f6021b7c2b385daa2ff4235421c43406cb4c9d7e5164dd932ed4eda8a9af5",
+    "is_volume": true,
+    "surface_area_mm2": 38872.086357802815,
+    "vertices": 106883,
+    "volume_mm3": 241264.02533353426,
+    "watertight": true,
+    "winding_consistent": true
+  },
+  "source": "<REVISION_ROOT>/external_extension_2026_11_12/inputs/source/utah_single_003_humerus_r.stl",
+  "source_sha256": "ba71c58cdf8fdf40bf374035c2de2902b3ba6d8380aa159075480ea4a845c5e1",
+  "units": "mm"
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "case_id": "vsd_002_femur_r__canal_ratio_diaphyse_0.5",
+  "outer_path": "<REVISION_ROOT>/analysis/runs/vsd_002_femur_r/canal_ratio_diaphyse_0.5/vsd_002_femur_r_outer.stl",
+  "inner_path": "<REVISION_ROOT>/analysis/runs/vsd_002_femur_r/canal_ratio_diaphyse_0.5/vsd_002_femur_r_inner_negative.stl",
+  "outer_sha256": "010f34ec34439ed0fb9cb126db710d1d4d7247eee519cecebccb13abc8f288f0",
+  "inner_sha256": "613dc79847106d52681f01603eaab52d21f923e3f0cc2bf04e0cd397f45522dc",
+  "outer_vertex_count": 17522,
+  "inner_vertex_count": 72182,
+  "outer_triangle_count": 35040,
+  "inner_triangle_count": 144360,
+  "bidirectional_vertex_surface_upper_bound_mm": 3.9158878326416016,
+  "continuous_triangle_surface_minimum_mm": 3.9146335683488167,
+  "required_clearance_mm": 0.15,
+  "continuous_clearance_pass": true,
+  "candidate_triangle_pair_count": 9317,
+  "closest_outer_triangle_index": 31294,
+  "closest_inner_triangle_index": 72289,
+  "closest_outer_point_mm": [
+    -1.9452961297734823,
+    -7.367162818652351,
+    151.38245237130187
+  ],
+  "closest_inner_point_mm": [
+    -0.6288158571443285,
+    -3.6844801964262404,
+    151.55299377441406
+  ],
+  "closest_feature_pair": "outer_edge_2-inner_edge_1",
+  "method": "bidirectional vertex-surface upper bound; hierarchical AABB candidate enumeration; exact vertex-triangle and edge-edge triangle-pair distance",
+  "blender_version": "5.0.1",
+  "python_version": "3.11.13",
+  "elapsed_seconds": 1.2937479999964125
+}

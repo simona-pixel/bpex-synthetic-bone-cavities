@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "case_id": "utah_paired_043_humerus_l",
+  "outer_path": "<REVISION_ROOT>/external_extension_2026_11_12/runs/utah_paired_043_humerus_l/candidate/utah_paired_043_humerus_l_outer.stl",
+  "inner_path": "<REVISION_ROOT>/external_extension_2026_11_12/runs/utah_paired_043_humerus_l/candidate/utah_paired_043_humerus_l_inner_negative.stl",
+  "outer_sha256": "375bad6d40fd340ff91fd25fd218d2a53929c550d81ea654fcdea2e854a35df7",
+  "inner_sha256": "e91483b115493f803d18c91ee8bc2aed57907010982f36b1d1fcf790c2236c84",
+  "outer_vertex_count": 42985,
+  "inner_vertex_count": 72182,
+  "outer_triangle_count": 85966,
+  "inner_triangle_count": 144360,
+  "bidirectional_vertex_surface_upper_bound_mm": 1.5230133533477783,
+  "continuous_triangle_surface_minimum_mm": 1.523012509597755,
+  "required_clearance_mm": 0.15,
+  "continuous_clearance_pass": true,
+  "candidate_triangle_pair_count": 4259,
+  "closest_outer_triangle_index": 48625,
+  "closest_inner_triangle_index": 189,
+  "closest_outer_point_mm": [
+    16.314516544701988,
+    4.65170397781521,
+    -128.05927969247927
+  ],
+  "closest_inner_point_mm": [
+    15.240164756774902,
+    5.650588035583496,
+    -128.4686279296875
+  ],
+  "closest_feature_pair": "inner_vertex_2-outer_triangle",
+  "method": "bidirectional vertex-surface upper bound; hierarchical AABB candidate enumeration; exact vertex-triangle and edge-edge triangle-pair distance",
+  "blender_version": "5.0.1",
+  "python_version": "3.11.13",
+  "elapsed_seconds": 1.6150186659942847
+}

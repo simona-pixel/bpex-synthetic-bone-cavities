@@ -1,0 +1,44 @@
+[
+  {
+    "case_id": "vsd_002_femur_r",
+    "subject_id": "002",
+    "bone": "femur",
+    "historical_run": "20260825_vsd_v3_holdout_v1",
+    "input_sha256": "c80829d511e803f8ac5e568715032043c1d1a922cddce9ce1da502298c23288e"
+  },
+  {
+    "case_id": "vsd_z064_femur_r",
+    "subject_id": "z064",
+    "bone": "femur",
+    "historical_run": "20260825_vsd_v3_holdout_v1",
+    "input_sha256": "8ae7694648628ee53b5682f94035ae0bc9fd85d3091a8004d9ccd12f03f460c7"
+  },
+  {
+    "case_id": "vsd_006_tibia_r",
+    "subject_id": "006",
+    "bone": "tibia",
+    "historical_run": "20260825_vsd_v3_holdout_v1",
+    "input_sha256": "161087e3258473e20e686a706405e309c61f6cd2984967d527ca91a6e881fa78"
+  },
+  {
+    "case_id": "vsd_z062_tibia_r",
+    "subject_id": "z062",
+    "bone": "tibia",
+    "historical_run": "20260825_vsd_v3_holdout_v1",
+    "input_sha256": "a3375eb040cc203ca53e5ee9432a989ad7c3bb6b34f618afabc771512dbf8b95"
+  },
+  {
+    "case_id": "zenodo_6614647_humerus_r",
+    "subject_id": "ABH074",
+    "bone": "humerus",
+    "historical_run": "20260825_zenodo_multi_os_v3_development",
+    "input_sha256": "aea52b54b3665f3a8fdcdb97b44069f2070573c428247531548b3b6a69210ad9"
+  },
+  {
+    "case_id": "zenodo_6614647_ulna_r",
+    "subject_id": "ABH074",
+    "bone": "ulna",
+    "historical_run": "20260825_zenodo_multi_os_v3_development",
+    "input_sha256": "8cb7bab2ea8a2586f1edef04117304fcb8c0e1a3a7003aa4e3321626df6fae89"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "case_id": "utah_paired_056_humerus_l",
+  "returncode": 1,
+  "preparation_wall_seconds": 0.5373229580000043,
+  "status": "SOURCE_REJECTED",
+  "reason": "Traceback (most recent call last):\n  File \"<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py\", line 225, in <module>\n    main()\n  File \"<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py\", line 177, in main\n    raise RuntimeError(\"Fail-closed external source: \" + \", \".join(source_failures))\nRuntimeError: Fail-closed external source: source_not_watertight\n"
+}

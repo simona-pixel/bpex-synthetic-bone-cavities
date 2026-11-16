@@ -1,0 +1,65 @@
+{
+  "benchmark": {
+    "containment_guard_binary_iterations": 12,
+    "containment_guard_minimum_clearance_mm": 0.15,
+    "containment_guard_minimum_radial_scale": 0.75,
+    "containment_guard_search_step": 0.01,
+    "geometry_tolerance_mm": 0.0001,
+    "random_seed": 20260825,
+    "self_intersection_epsilon_mm": 1e-06,
+    "validated_loft_angles": 180,
+    "validated_loft_radial_safety_mm": 0.4,
+    "validated_loft_sections": 401,
+    "validated_loft_z_margin_fraction": 0.15,
+    "validated_loft_z_margin_mm": 5.0,
+    "validated_spine_grid_size": 17
+  },
+  "bones": {
+    "utah_paired_054_humerus_l": {
+      "analysis_scope": "external_validation_portability",
+      "inner_filename": "utah_paired_054_humerus_l_inner_negative.stl",
+      "label": "utah_paired_054_humerus_l",
+      "outer_filename": "utah_paired_054_humerus_l_outer.stl",
+      "parameters": {
+        "canal_ratio_diaphyse": 0.6,
+        "canal_ratio_isthme": 0.5,
+        "canal_ratio_metaphyse": 0.84,
+        "decimate_ratio": 1.0,
+        "dist_epi_plateau_mm": 11.081052856445313,
+        "dist_epi_shell_min_mm": 0.9695921249389648,
+        "dist_epi_to_meta_fade_mm": 13.851316070556642,
+        "dist_meta_shell_min_mm": 0.692565803527832,
+        "dist_meta_to_zero_fade_mm": 24.932368927001953,
+        "end_zone_dist_mm": 27.702632141113284,
+        "end_zone_prox_mm": 27.702632141113284,
+        "flare_dist_mm": 22.162105712890625,
+        "flare_prox_mm": 22.162105712890625,
+        "half_diaphyse": 0.44,
+        "half_isthme": 0.15,
+        "merge_distance_mm": 0.001,
+        "nb_sections": 160,
+        "prox_epi_plateau_mm": 11.081052856445313,
+        "prox_epi_shell_min_mm": 0.9695921249389648,
+        "prox_epi_to_meta_fade_mm": 13.851316070556642,
+        "prox_meta_shell_min_mm": 0.692565803527832,
+        "prox_meta_to_zero_fade_mm": 24.932368927001953,
+        "rmin_absolute_mm": 1.1081052856445313,
+        "smooth_iterations": 0,
+        "spine_smooth_window": 6,
+        "terminal_backing_offset_mm": 0.8310789642333984,
+        "use_decimate": false,
+        "z_window_ratio": 0.018
+      }
+    }
+  },
+  "case_materialization": {
+    "case_id": "utah_paired_054_humerus_l",
+    "longitudinal_length_mm": 277.0263214111328,
+    "prepared_report": "<REVISION_ROOT>/external_extension_2026_11_12/inputs/prepared/utah_paired_054_humerus_l/preparation.json"
+  },
+  "external_profile_id": "portable_symmetric_diaphyseal_long_bone_v1",
+  "methods": {
+    "solidify": {}
+  },
+  "schema_version": 3
+}

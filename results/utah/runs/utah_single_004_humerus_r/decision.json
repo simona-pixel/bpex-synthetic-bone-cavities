@@ -1,0 +1,11 @@
+{
+  "case_id": "utah_single_004_humerus_r",
+  "accepted": true,
+  "status": "ACCEPTED",
+  "source_sha256": "14ac85b82e67905ee05522f7d053b1c369831cbac59f52876e68226b1b181381",
+  "config_sha256": "292132c85292dbdbd03783fe406a92692599da211a804526856e87401c0e008a",
+  "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+  "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+  "continuous_minimum_mm": 2.4381721019744873,
+  "threshold_mm": 0.15
+}

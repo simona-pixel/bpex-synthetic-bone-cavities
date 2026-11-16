@@ -1,0 +1,38 @@
+[
+  {
+    "case_id": "vsd_z064_femur_r",
+    "returncode": 0,
+    "wall_seconds": 99.6801082919992,
+    "log": "<REVISION_ROOT>/analysis/logs/vsd_z064_femur_r.log"
+  },
+  {
+    "case_id": "vsd_002_femur_r",
+    "returncode": 0,
+    "wall_seconds": 114.931596541006,
+    "log": "<REVISION_ROOT>/analysis/logs/vsd_002_femur_r.log"
+  },
+  {
+    "case_id": "vsd_006_tibia_r",
+    "returncode": 0,
+    "wall_seconds": 108.36166779100313,
+    "log": "<REVISION_ROOT>/analysis/logs/vsd_006_tibia_r.log"
+  },
+  {
+    "case_id": "vsd_z062_tibia_r",
+    "returncode": 0,
+    "wall_seconds": 98.41571400000248,
+    "log": "<REVISION_ROOT>/analysis/logs/vsd_z062_tibia_r.log"
+  },
+  {
+    "case_id": "zenodo_6614647_ulna_r",
+    "returncode": 0,
+    "wall_seconds": 195.32340187500813,
+    "log": "<REVISION_ROOT>/analysis/logs/zenodo_6614647_ulna_r.log"
+  },
+  {
+    "case_id": "zenodo_6614647_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 204.2359462500026,
+    "log": "<REVISION_ROOT>/analysis/logs/zenodo_6614647_humerus_r.log"
+  }
+]

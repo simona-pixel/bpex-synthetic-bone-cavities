@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "case_id": "zenodo_6614647_humerus_r__canal_ratio_diaphyse_0.7",
+  "outer_path": "<REVISION_ROOT>/analysis/runs/zenodo_6614647_humerus_r/canal_ratio_diaphyse_0.7/zenodo_6614647_humerus_r_outer.stl",
+  "inner_path": "<REVISION_ROOT>/analysis/runs/zenodo_6614647_humerus_r/canal_ratio_diaphyse_0.7/zenodo_6614647_humerus_r_inner_negative.stl",
+  "outer_sha256": "87d61d8a1c676e5f5d8a3ddfecae28219390ccb21f7917e7157d177304e1b803",
+  "inner_sha256": "3d902f4171b9f74841bd9e989b8e8cdc125ea22901bb47a97abfb2d3fad07b92",
+  "outer_vertex_count": 100002,
+  "inner_vertex_count": 72182,
+  "outer_triangle_count": 200000,
+  "inner_triangle_count": 144360,
+  "bidirectional_vertex_surface_upper_bound_mm": 0.5321807265281677,
+  "continuous_triangle_surface_minimum_mm": 0.5285109792075671,
+  "required_clearance_mm": 0.15,
+  "continuous_clearance_pass": true,
+  "candidate_triangle_pair_count": 2579,
+  "closest_outer_triangle_index": 185524,
+  "closest_inner_triangle_index": 256,
+  "closest_outer_point_mm": [
+    -14.037508393950725,
+    8.980992579692161,
+    -122.71620306194494
+  ],
+  "closest_inner_point_mm": [
+    -13.651371579992595,
+    9.284043575330562,
+    -122.91211709945063
+  ],
+  "closest_feature_pair": "outer_edge_1-inner_edge_1",
+  "method": "bidirectional vertex-surface upper bound; hierarchical AABB candidate enumeration; exact vertex-triangle and edge-edge triangle-pair distance",
+  "blender_version": "5.0.1",
+  "python_version": "3.11.13",
+  "elapsed_seconds": 2.439862625004025
+}

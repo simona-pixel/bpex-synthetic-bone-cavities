@@ -1,0 +1,66 @@
+{
+  "benchmark": {
+    "containment_guard_binary_iterations": 12,
+    "containment_guard_minimum_clearance_mm": 0.3,
+    "containment_guard_minimum_radial_scale": 0.75,
+    "containment_guard_search_step": 0.01,
+    "geometry_tolerance_mm": 0.0001,
+    "random_seed": 20260825,
+    "self_intersection_epsilon_mm": 1e-06,
+    "validated_loft_angles": 180,
+    "validated_loft_radial_safety_mm": 0.4,
+    "validated_loft_sections": 401,
+    "validated_loft_z_margin_fraction": 0.15,
+    "validated_loft_z_margin_mm": 5.0,
+    "validated_spine_grid_size": 17
+  },
+  "bones": {
+    "vsd_002_femur_r": {
+      "analysis_scope": "external_validation_portability",
+      "inner_filename": "vsd_002_femur_r_inner_negative.stl",
+      "label": "vsd_002_femur_r",
+      "outer_filename": "vsd_002_femur_r_outer.stl",
+      "parameters": {
+        "canal_ratio_diaphyse": 0.6,
+        "canal_ratio_isthme": 0.5,
+        "canal_ratio_metaphyse": 0.84,
+        "decimate_ratio": 1.0,
+        "dist_epi_plateau_mm": 17.091861572265625,
+        "dist_epi_shell_min_mm": 1.4955378875732421,
+        "dist_epi_to_meta_fade_mm": 21.364826965332032,
+        "dist_meta_shell_min_mm": 1.0682413482666016,
+        "dist_meta_to_zero_fade_mm": 38.45668853759766,
+        "end_zone_dist_mm": 42.729653930664064,
+        "end_zone_prox_mm": 42.729653930664064,
+        "flare_dist_mm": 34.18372314453125,
+        "flare_prox_mm": 34.18372314453125,
+        "half_diaphyse": 0.44,
+        "half_isthme": 0.15,
+        "merge_distance_mm": 0.001,
+        "nb_sections": 160,
+        "prox_epi_plateau_mm": 17.091861572265625,
+        "prox_epi_shell_min_mm": 1.4955378875732421,
+        "prox_epi_to_meta_fade_mm": 21.364826965332032,
+        "prox_meta_shell_min_mm": 1.0682413482666016,
+        "prox_meta_to_zero_fade_mm": 38.45668853759766,
+        "rmin_absolute_mm": 1.7091861572265625,
+        "smooth_iterations": 0,
+        "spine_smooth_window": 6,
+        "terminal_backing_offset_mm": 1.281889617919922,
+        "use_decimate": false,
+        "z_window_ratio": 0.018
+      }
+    }
+  },
+  "case_materialization": {
+    "case_id": "vsd_002_femur_r",
+    "longitudinal_length_mm": 427.2965393066406,
+    "prepared_report": "<STUDY_ROOT>/benchmark/external_validation_v1/runs/20260825_vsd_v3_holdout_v1/cases/vsd_002_femur_r/prepared_report.json"
+  },
+  "external_profile_id": "portable_symmetric_diaphyseal_long_bone_v1",
+  "methods": {
+    "solidify": {}
+  },
+  "schema_version": 3,
+  "revision_analysis_role": "exploratory parameter sensitivity; reused subjects"
+}

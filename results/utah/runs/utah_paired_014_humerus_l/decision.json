@@ -1,0 +1,11 @@
+{
+  "case_id": "utah_paired_014_humerus_l",
+  "accepted": true,
+  "status": "ACCEPTED",
+  "source_sha256": "fc0a4515dde5a0a62bcfc97d1004529d91836ca910399a93d605d97fd4f1d539",
+  "config_sha256": "0b9a7587222b832bd8e1bc618be427cf8802364f4c7c403abd834a5816664140",
+  "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+  "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+  "continuous_minimum_mm": 1.9434256553649902,
+  "threshold_mm": 0.15
+}

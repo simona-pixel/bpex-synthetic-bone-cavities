@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "profile_id": "portable_symmetric_diaphyseal_long_bone_v1",
+  "frozen_at": "2026-08-25T22:45:00+02:00",
+  "purpose": "Single morphology-independent diaphyseal profile for external geometric portability testing",
+  "orientation": {
+    "method": "principal_component_axis_alignment",
+    "longitudinal_axis": "largest_covariance_eigenvector_to_positive_Z",
+    "transverse_axis": "second_covariance_eigenvector_to_positive_X",
+    "handedness": "right_handed",
+    "sign_rule": "largest_absolute_component_is_positive; symmetric proximal_distal_parameters make longitudinal sign outcome-invariant"
+  },
+  "profile": {
+    "nb_sections": 160,
+    "z_window_ratio": 0.018,
+    "spine_smooth_window": 6,
+    "canal_ratio_isthme": 0.50,
+    "canal_ratio_diaphyse": 0.60,
+    "canal_ratio_metaphyse": 0.84,
+    "half_isthme": 0.15,
+    "half_diaphyse": 0.44,
+    "end_zone_fraction_of_length": 0.10,
+    "flare_fraction_of_length": 0.08,
+    "terminal_backing_fraction_of_length": 0.003,
+    "terminal_backing_bounds_mm": [0.8, 1.5],
+    "minimum_inner_radius_fraction_of_length": 0.004,
+    "minimum_inner_radius_bounds_mm": [1.0, 2.0],
+    "epiphyseal_shell_fraction_of_length": 0.0035,
+    "epiphyseal_shell_bounds_mm": [0.9, 1.6],
+    "metaphyseal_shell_fraction_of_length": 0.0025,
+    "metaphyseal_shell_bounds_mm": [0.65, 1.2],
+    "epiphyseal_plateau_fraction_of_length": 0.04,
+    "epiphyseal_to_metaphyseal_fade_fraction_of_length": 0.05,
+    "metaphyseal_to_zero_fade_fraction_of_length": 0.09,
+    "use_decimate": false,
+    "decimate_ratio": 1.0,
+    "smooth_iterations": 0,
+    "merge_distance_mm": 0.001
+  },
+  "validated_loft": {
+    "sections": 401,
+    "angles_per_section": 180,
+    "spine_grid_size": 17,
+    "z_margin_mm": 5.0,
+    "z_margin_fraction": 0.15,
+    "radial_safety_mm": 0.40
+  },
+  "containment_guard": {
+    "minimum_clearance_mm": 0.15,
+    "minimum_radial_scale": 0.75,
+    "search_step": 0.01,
+    "binary_iterations": 12
+  },
+  "validation": {
+    "geometry_tolerance_mm": 0.0001,
+    "self_intersection_epsilon_mm": 0.000001,
+    "determinism_repetitions": 3,
+    "random_seed": 20260825
+  },
+  "comparators": {
+    "external_cohort": "not_primary; comparator calibration remains confined to the frozen v2 development benchmark"
+  }
+}

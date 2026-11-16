@@ -1,0 +1,134 @@
+{
+  "source_doi": "10.5281/zenodo.19077748",
+  "source_version": "v1.11",
+  "protocol_freeze_utc": "2026-11-12T20:41:46.766044+00:00",
+  "selection_freeze_utc": "2026-11-12T20:46:05.877589+00:00",
+  "primary": {
+    "attempted": 65,
+    "source_evaluable": 64,
+    "accepted": 63,
+    "statuses": {
+      "ACCEPTED": 63,
+      "WITHHELD_CONTINUOUS_CLEARANCE": 1,
+      "SOURCE_REJECTED": 1
+    },
+    "donors": 65,
+    "minimum_continuous_clearance_mm": 0.36074297919431786,
+    "contracted_outputs": 0,
+    "confidence_interval_unit": "one selected humerus per source-defined donor",
+    "acceptance_per_attempted_exact_95_ci": [
+      0.8932296794256009,
+      0.9962517377804871
+    ],
+    "acceptance_per_evaluable_exact_95_ci": [
+      0.9159896735656463,
+      0.9996044874859493
+    ],
+    "continuous_clearance_quartiles_mm": [
+      1.2798823714256287,
+      1.659117579460144,
+      1.885913527482415
+    ],
+    "wall_seconds_quartiles": [
+      6.654126374996849,
+      7.058452042008867,
+      7.545823292006389
+    ]
+  },
+  "secondary_left": {
+    "attempted": 60,
+    "source_evaluable": 59,
+    "accepted": 59,
+    "statuses": {
+      "ACCEPTED": 59,
+      "SOURCE_REJECTED": 1
+    },
+    "donors": 60,
+    "minimum_continuous_clearance_mm": 0.40114880786032314,
+    "contracted_outputs": 0,
+    "confidence_interval_unit": "one selected humerus per source-defined donor",
+    "acceptance_per_attempted_exact_95_ci": [
+      0.910600949942513,
+      0.999578125547658
+    ],
+    "acceptance_per_evaluable_exact_95_ci": [
+      0.9393910990496601,
+      1.0
+    ],
+    "continuous_clearance_quartiles_mm": [
+      1.1827506420769274,
+      1.5797308683395386,
+      1.7962601057269425
+    ],
+    "wall_seconds_quartiles": [
+      6.817948145995615,
+      7.189345791994128,
+      7.463598228998308
+    ]
+  },
+  "all_bones_descriptive": {
+    "attempted": 125,
+    "source_evaluable": 123,
+    "accepted": 122,
+    "statuses": {
+      "ACCEPTED": 122,
+      "WITHHELD_CONTINUOUS_CLEARANCE": 1,
+      "SOURCE_REJECTED": 2
+    },
+    "donors": 65,
+    "minimum_continuous_clearance_mm": 0.36074297919431786,
+    "contracted_outputs": 0,
+    "confidence_interval_unit": "not computed for correlated bilateral bones",
+    "continuous_clearance_quartiles_mm": [
+      1.207690712399615,
+      1.5870028734207153,
+      1.8335419595241547
+    ],
+    "wall_seconds_quartiles": [
+      6.774065406247246,
+      7.165711729001487,
+      7.507145427254727
+    ]
+  },
+  "paired_donors": {
+    "attempted": 60,
+    "both_sides_source_evaluable": 58,
+    "both_sides_accepted": 57
+  },
+  "primary_demographics": {
+    "source_defined_donors": 65,
+    "sex_counts": {
+      "F": 15,
+      "M": 50
+    },
+    "age_min_years": 14,
+    "age_max_years": 74,
+    "age_median_years": 53.0,
+    "under_18_years": 4,
+    "all_cadaveric": true
+  },
+  "failures": [
+    {
+      "case_id": "utah_paired_008_humerus_r",
+      "analysis": "primary",
+      "outcome": "WITHHELD_CONTINUOUS_CLEARANCE",
+      "reason": "Continuous minimum 0.149529357950 mm below the 0.150-mm final threshold."
+    },
+    {
+      "case_id": "utah_paired_047_humerus_r",
+      "analysis": "primary",
+      "outcome": "SOURCE_REJECTED",
+      "reason": "Traceback (most recent call last):\n  File \"<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py\", line 225, in <module>\n    main()\n  File \"<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py\", line 177, in main\n    raise RuntimeError(\"Fail-closed external source: \" + \", \".join(source_failures))\nRuntimeError: Fail-closed external source: source_not_watertight\n"
+    },
+    {
+      "case_id": "utah_paired_056_humerus_l",
+      "analysis": "secondary_left",
+      "outcome": "SOURCE_REJECTED",
+      "reason": "Traceback (most recent call last):\n  File \"<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py\", line 225, in <module>\n    main()\n  File \"<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py\", line 177, in main\n    raise RuntimeError(\"Fail-closed external source: \" + \", \".join(source_failures))\nRuntimeError: Fail-closed external source: source_not_watertight\n"
+    }
+  ],
+  "environment_setup_failures": 125,
+  "environment_setup_failures_note": "Missing SciPy before source diagnostics; retained logs and identical retry. Not method failures.",
+  "public_release": false,
+  "anatomical_or_physical_validation": false
+}

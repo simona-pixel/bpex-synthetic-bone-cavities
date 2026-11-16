@@ -1,0 +1,33 @@
+{
+  "case_id": "figshare_tibia_102480",
+  "length_mm": 40,
+  "z_limits_mm": [
+    -42.217613220214844,
+    -2.2176132202148438
+  ],
+  "solid_segment_volume_mm3": 18238.293821153013,
+  "hollow_material_volume_mm3": 14259.291459619131,
+  "removed_volume_mm3": 3979.0023615338814,
+  "diagnostics": {
+    "vertices": 13354,
+    "edges": 40062,
+    "faces": 26708,
+    "components": 1,
+    "boundary_edges": 0,
+    "non_manifold_edges": 0,
+    "loose_vertices": 0,
+    "loose_edges": 0,
+    "winding_conflicts": 0,
+    "degenerate_edges": 0,
+    "degenerate_faces": 0,
+    "closed": true,
+    "signed_volume_mm3": 14259.291459619131,
+    "volume_mm3": 14259.291459619131
+  },
+  "non_adjacent_self_intersection_pairs": 0,
+  "euler_characteristic": 0,
+  "genus_one_through_cavity": true,
+  "parent_pair_clearance_mm": 3.1035653614044683,
+  "scope": "digital Boolean and topology demonstration only; no printing, instrumentation or physical validation",
+  "output_stl": "<REVISION_ROOT>/analysis/qualification/digital_hollow_diaphyseal_coupon.stl"
+}

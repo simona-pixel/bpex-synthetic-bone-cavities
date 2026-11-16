@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the associated BPEX manuscript when available and identify this review version when reusing its code or results."
+type: software
+title: "Synthetic bone cavity construction and checking"
+version: "1.1.0-review"
+authors:
+  - family-names: Arvati
+    given-names: Simon
+    orcid: "https://orcid.org/0009-0000-9718-0033"
+  - family-names: Luc
+    given-names: François
+  - family-names: Delbreilh
+    given-names: Laurent
+  - family-names: Liard-Zmuda
+    given-names: Agnès
+  - family-names: Lubet
+    given-names: Alexis
+abstract: "Review materials for a deterministic Blender and Python workflow for constructing and checking synthetic cavities from outer long-bone surface meshes. Computational research software; the associated manuscript is under peer review."
+
+license: MIT
+repository-code: "https://github.com/simona-pixel/bpex-synthetic-bone-cavities"

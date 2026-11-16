@@ -1,0 +1,2103 @@
+[
+  {
+    "case_id": "utah_single_001_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.332378209001035,
+    "decision": {
+      "case_id": "utah_single_001_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6dde7157ea2fa4841c8709d14e85a302a36e366f40b70f3c6b687cc94354a45e",
+      "config_sha256": "5adf420b9163b1e609f059e287542135bcb1ea545b709747c3cd1b5b56d8d0e6",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.3914899826049805,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_single_002_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.510076167003717,
+    "decision": {
+      "case_id": "utah_single_002_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "aaa0f69e518fb0fc438b7b7a09cd820048c3fce08723584feca618a28ac412b3",
+      "config_sha256": "a14381ca0c6b4e12b912994b7bd9ff7aba1eee8b88f864e2a4486e84d56532e3",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.4833413977243297,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_single_003_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 11.418552959003136,
+    "decision": {
+      "case_id": "utah_single_003_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "14a4ec714f5894d68a3a5428c3b26e3a8a04fe743e39b44c04495835f6d4415f",
+      "config_sha256": "64611a15da8a0ad7be1d2a5a591708a088813d6731b885c9e1da49b6b6fd81ac",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5101253986358643,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_single_004_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 5.580322666006396,
+    "decision": {
+      "case_id": "utah_single_004_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "14ac85b82e67905ee05522f7d053b1c369831cbac59f52876e68226b1b181381",
+      "config_sha256": "292132c85292dbdbd03783fe406a92692599da211a804526856e87401c0e008a",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.4381721019744873,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_single_005_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 8.007147291995352,
+    "decision": {
+      "case_id": "utah_single_005_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "c51253545746784cf03135b78095b283ee2ee80d058983b193ede62d595154e9",
+      "config_sha256": "8318b017d67abe49994ac4721b75911601d8601d0eb28a83971bf1b8b6aa0125",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.2428711571526785,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_001_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.070923249993939,
+    "decision": {
+      "case_id": "utah_paired_001_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "13b0f130c0c15fec3ccdbd744a0f8293eb0970191a4c0902a76d99ca9018412e",
+      "config_sha256": "c4c26d0f5587907dd2b84c3db0ac0a2be4f89580cddccf7075abceef71699e38",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.147091865539551,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_001_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.054448166993097,
+    "decision": {
+      "case_id": "utah_paired_001_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "0958e1fb60b1367f0598754a02cc930744a7a3d222f0d025f750c920a660a8b2",
+      "config_sha256": "2a3ff50382c999b6842d35a0b845fb4fd14a33a24b9c5ab3f3740e027fcf78b0",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.163292261170618,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_002_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.615897541996674,
+    "decision": {
+      "case_id": "utah_paired_002_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "f0a2e79f7378e98d9082840fd4c374cd8eaf44ab9579e6dd130d143566316bdb",
+      "config_sha256": "548267b87b579e7340aef282f9c18c7ac6cbfce549594599d5571a2e1fee06ac",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8044990316405565,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_002_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.5075418750057,
+    "decision": {
+      "case_id": "utah_paired_002_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6cb1ec1aa70d44f4cbf755872c1bd5e0623def9e2cdb552eb14a530e416678e7",
+      "config_sha256": "f6cb6dea9589f2687e71ecdb30fd1c0f0c614ec56ac8e495195aef8c82455c26",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5427901904828445,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_003_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.2615775000012945,
+    "decision": {
+      "case_id": "utah_paired_003_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "26c5c95bf7ad92ed3dd544fd337d9a51ac5f9a813ed7890156b4bb507def00e7",
+      "config_sha256": "84a19521a7c52cec767c2e048f9df013034e7d5d6182ea30ec64643901f0ad45",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.064461588859558,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_003_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.879737290990306,
+    "decision": {
+      "case_id": "utah_paired_003_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6b3adf7ee9cdcef437bf3a84cb55cb9ebab83432bf24e4d356db75b7cd92abc2",
+      "config_sha256": "de0d793d6c4310d5b989cb1094f0479218c0b28a082deabc0a22bf79441f4a3f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.659117579460144,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_004_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.426851708005415,
+    "decision": {
+      "case_id": "utah_paired_004_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "c34d20e0909f6b67cb1ecc36ebd96f354040e5f4bba3045f894195f6fcf3ab1f",
+      "config_sha256": "067af07a5bebd39b1f3d662487940f7f4e50703f43bc0e9319f3f4eaef906ab3",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1842435598373413,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_004_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.310404584000935,
+    "decision": {
+      "case_id": "utah_paired_004_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "9ba21914dd3dfaef33e80c52247f8ebf73035716c9cd4cba72b6c5cb42be4a76",
+      "config_sha256": "0b55304c1dd762e33724708dd0c0552f22786cbd7ac4d69b660c0dd1ca6879de",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.434753522185794,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_005_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.62035008300154,
+    "decision": {
+      "case_id": "utah_paired_005_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "d96afecf9749b3b9e5ca2c3c35debe4ee71f98849b7d6e8cc58ba1e0cc8fc3c8",
+      "config_sha256": "063b6a0230c0e4bf3bdfb57913b7d05fc2001568a0353c923e5e550eef6343e7",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.6380970478057861,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_005_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.544272209008341,
+    "decision": {
+      "case_id": "utah_paired_005_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "614ae4cff6dfd98a059a4c4ce97bb5a0bdb1df2c30181aa7fb11d97cd367bcfe",
+      "config_sha256": "fd057526085f7a020b47e3a9b2e20d5a7491b9a7518b26dcbb4ee2ca44b5e9bf",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.4631922316825396,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_006_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.838633458013646,
+    "decision": {
+      "case_id": "utah_paired_006_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "7004289537b83d532f91f133adabc8f1b5b815be332e2dfb85bc9a5deef20d97",
+      "config_sha256": "ca15fafb0798939e0818b3cfdb496c36b40e2e7670c1c081043b8c68fa3d5437",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.61234536381613,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_006_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.8785236249968875,
+    "decision": {
+      "case_id": "utah_paired_006_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "073ab17ba41ab24e629334a4cd718d2f54696e34a928781b0718b5119098684d",
+      "config_sha256": "99d8b44e0ce48db8ed46191dae5963620b2b43e8f52b779f9319947a82b16b47",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5246881246566772,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_007_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.725291624999954,
+    "decision": {
+      "case_id": "utah_paired_007_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "bd2055bf71db3e2719bb4db5a5d2488b14358e80582ec8eb7d37a75a69a3018f",
+      "config_sha256": "9c42cd11bd25af485767240bc66032008dbdf8594cfdf43e0f29cfc080a66877",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7575153249406057,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_007_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.630158790998394,
+    "decision": {
+      "case_id": "utah_paired_007_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "0e838237f2b053adab73b8a9b4dcc04c24628b85507c32553d5cac8aa726086c",
+      "config_sha256": "97b6a119fc8db48a4d277c166103b8809bb41df2a4612a8ba9eb57bdf8251284",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7204493076317495,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_008_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.989480999996886,
+    "decision": {
+      "case_id": "utah_paired_008_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "8ec2c28c3430e31dc38fc9c3ca4aed923c32150e27f0370e1c9f741dee1c7d05",
+      "config_sha256": "2e38423daf901c63fef8d97a014b34a3da6a89b10c074ba3c561b9d61e921979",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.40114880786032314,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_008_humerus_r",
+    "returncode": 2,
+    "wall_seconds": 20.85369079100201,
+    "decision": {
+      "case_id": "utah_paired_008_humerus_r",
+      "accepted": false,
+      "status": "WITHHELD_CONTINUOUS_CLEARANCE",
+      "source_sha256": "8f24b554c5c3ce82d52753f1c07362f50bc98568bd866e2b79ad9ce963ed092f",
+      "config_sha256": "2b9bed738d233758ff1314ed0dd69119b896e361203cb35429d4b39738f2269a",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.14952935794977168,
+      "threshold_mm": 0.15
+    },
+    "status": "WITHHELD_CONTINUOUS_CLEARANCE"
+  },
+  {
+    "case_id": "utah_paired_009_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.8198590419924585,
+    "decision": {
+      "case_id": "utah_paired_009_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "1008e2eac65c2cee6ca5784b20ca9a895f17c97be98d24cb1c9c6ff54d104188",
+      "config_sha256": "aaea0b2ccb8c8ccfe6e3944624dbd27d0b8ca8a35c79a6ec9905d98b23a49544",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7866119453574782,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_009_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.86610012500023,
+    "decision": {
+      "case_id": "utah_paired_009_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "a57c8a2278be69c9a28ab3f995f8170ba3db2185d8016fb0d58fe5dfd831665f",
+      "config_sha256": "0887927e7f3d3fd842187e611baaa02d110a04c448be29c06f24d5303c429bc3",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.069836139678955,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_010_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.816037249998772,
+    "decision": {
+      "case_id": "utah_paired_010_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "a0d04d249ecf4895b23c261c3964fd80cefdcde975d1be83a8aaf6d1bbdc1a8b",
+      "config_sha256": "0e5ba520f04c9bfbd4641a50f74168f09ea9ade5478d9d645c62dc6d06df0146",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8196598291397095,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_010_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.663587041999563,
+    "decision": {
+      "case_id": "utah_paired_010_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "779f5c5c87ca5e282772b99426c85f33d07f24594a46d0648cbca8e45cf79cca",
+      "config_sha256": "6f22178171bc3bf0c0c949008d44e9ed67f8945cf3f532132ea7898096b3c36b",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5682451867834561,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_011_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.718704958999297,
+    "decision": {
+      "case_id": "utah_paired_011_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "e2b467a192e04be98a9dd4912d0c8f538b3149c21c9ec912f4045d5c13843652",
+      "config_sha256": "910ac7368d8ea9250b769ead6f3ed046c2c42e6b184a8cb6bb33122168a850a7",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5797308683395386,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_011_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.21534895899822,
+    "decision": {
+      "case_id": "utah_paired_011_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "bc5cbffb41edb5e90ea77c109266a2e71da2cbc3419b20bd3f9687594e75cf4f",
+      "config_sha256": "c3305e4f118f0406254dfc79cc3b689c839f12aa0d17014c1abf00467120797b",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.6982871294021606,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_012_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.279567124991445,
+    "decision": {
+      "case_id": "utah_paired_012_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "55dad1c4359194677657d60d41b9d950c65ab314ef869f249c3c7297f9dbc310",
+      "config_sha256": "d30b3dc519307835b85b8086677e6f7a88a0432c2bb195249cdd754663820b86",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.846209864084624,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_012_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.615864416991826,
+    "decision": {
+      "case_id": "utah_paired_012_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "ff23d947cf55f0895823c004e276139b96bd6b3fbc9843e9c626c7d696f219bb",
+      "config_sha256": "3e2216cb91441725989143072676cb886cb767eb0c1bc029572dcd0b0f46a9e5",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.9238006481276426,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_013_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.312448416996631,
+    "decision": {
+      "case_id": "utah_paired_013_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "7cb9dbecbe071cdc1926aa380d09aa890caab646b2831ffdffa2e191379799ff",
+      "config_sha256": "701aa2ff155a1185bb129c9aedeeaecbc4734cbdeaf1e1e87f05af9badf7370f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.2454338178498654,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_013_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.542757041999721,
+    "decision": {
+      "case_id": "utah_paired_013_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "2eb6528743314e07a86cdad1f547a6928d41da433b98f779b713383ba240fbaf",
+      "config_sha256": "b33b40756305eacd73f38283f50c85496156658bbcc96fd40e5a31663d4d6ccd",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.247614860534668,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_014_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.354274917001021,
+    "decision": {
+      "case_id": "utah_paired_014_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "fc0a4515dde5a0a62bcfc97d1004529d91836ca910399a93d605d97fd4f1d539",
+      "config_sha256": "0b9a7587222b832bd8e1bc618be427cf8802364f4c7c403abd834a5816664140",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.9434256553649902,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_014_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.168847708002431,
+    "decision": {
+      "case_id": "utah_paired_014_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "aa86453e9665a770ad38b0845ea6d237496228fc2c98146272a5026a990903bf",
+      "config_sha256": "9d22f2559131251c52408a6bc3012af1de7d726083695fa7ffdd6cd16a833567",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.703449656926975,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_015_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.309091791001265,
+    "decision": {
+      "case_id": "utah_paired_015_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "0b27cfff1ba861093b7ae7c2d867cc909b237fdaee08b67e1742937db3d9be63",
+      "config_sha256": "e4fc32baf48f2c63dc6ee875e0b0b19820619b82593ba499d3f9536ef1dc69bc",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.9414294362068176,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_015_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.676707625010749,
+    "decision": {
+      "case_id": "utah_paired_015_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "047da6c0f20d4d27dee55da50d3d79e27fe3048edd241d19e7939274a558afce",
+      "config_sha256": "8fa7ef664653fe18faea4c39b70a128d43d64e93844142ecda0144cf10739c95",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.4665009521102765,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_016_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.9714805420080665,
+    "decision": {
+      "case_id": "utah_paired_016_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6f4e25e8586df5373ce5f4638fa8f2febd2ca2f83a85dd60068943e6bd1cf455",
+      "config_sha256": "06279582b2249a5d0b0c6b3d058bcc37525f8636b69dfe7fb56be21a54090ea1",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.9950966238975525,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_016_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.904999749996932,
+    "decision": {
+      "case_id": "utah_paired_016_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "cd68476d851d7d8ee126ec6f07d2299bf674df06f365ecaec889e75eda8d6117",
+      "config_sha256": "e1de20ed530abd12cc1e51dea459b3788d089de592446308cdf1049ef5992290",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.963845334508017,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_017_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.518250791996252,
+    "decision": {
+      "case_id": "utah_paired_017_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "7bd9d847eb26fd783f87ec26ddc495da765bc032e6e221d9dd14f33c2877aa41",
+      "config_sha256": "c26c343eae3b68df3d073d2448de6380e118b77047e432caf6f3cd8dd96f626f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5211548805236816,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_017_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.3846827920060605,
+    "decision": {
+      "case_id": "utah_paired_017_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "56bb6ecde5d52a4a8a673609deb2f3c213be90131452d7f3a70ddd030aed81e4",
+      "config_sha256": "30c46f2c4d0f591ff078dba898a7be97119e5d380a879aa4cda5fe3c1dddaf7f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1841473579406738,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_018_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.627454624991515,
+    "decision": {
+      "case_id": "utah_paired_018_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "0a70d62478bdd84ef6156e9a30b08fe7f87a3f4523bae249b424f1361a582184",
+      "config_sha256": "5f120e155f151c0625415e55053cba5733c991017dd1445ad96e093b85d2f3b8",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.6403976230541517,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_018_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.9324850409902865,
+    "decision": {
+      "case_id": "utah_paired_018_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "9a12908ff9d50b2022e275586defadaf3a9f453cf8094e66aa4b07c00b5d1fbc",
+      "config_sha256": "11c2338fc787315de99b0ae4d32d46a017d4d9b92af5c4550a9b420ee2e24645",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.000630953523242,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_019_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.5958974579989444,
+    "decision": {
+      "case_id": "utah_paired_019_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "d0e40a95b12e0f2b88192106dc25cb77c406d4ea161a03ea7f326335c2161f18",
+      "config_sha256": "5305a4a9eb23ee92fa7af4a1faaa61651a27ba97518962140f2e57aa906e7af0",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5853323936462402,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_019_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.058452042008867,
+    "decision": {
+      "case_id": "utah_paired_019_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "3a494ba3825c6a89fcac495e2659869f2435dba6ce1d36d2e656d3f9a3ba5605",
+      "config_sha256": "8c42b1859643ded4d6ac5f8d8fafd834d2c02777a2aa8f86d79ec3450aca03de",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8089052438735962,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_020_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.892755833003321,
+    "decision": {
+      "case_id": "utah_paired_020_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "27293036177b33a207dd4f28552796b293983939792acdbde856d37b5366dc1c",
+      "config_sha256": "4fadfef3f4c1471c0246264aa827c22fb60b7ee07974abf18c7a4fb8f52276e0",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.792296270090993,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_020_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.922750208002981,
+    "decision": {
+      "case_id": "utah_paired_020_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "8fcde19b92ebd734345baca0186ef55e622cc59e45a7de7731d9d63d7740da6c",
+      "config_sha256": "f41f9fcf587f22d768c9ed2ec1363cd1338a8f5f488c18463a9d9157c79d803d",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.6763985196274218,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_021_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.549733250009012,
+    "decision": {
+      "case_id": "utah_paired_021_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "1febee62dfa48c44d07a0ca4c217cf9d3c5ab45ba6a4e773d5e52ca4b8b7d607",
+      "config_sha256": "e05c364e6badabec4d84e655d6d934c385fbae59cd71fc4b6409e64f1e936bd1",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.6643754920583391,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_021_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.644665707994136,
+    "decision": {
+      "case_id": "utah_paired_021_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "cc267d2ac4703b6b6ae044dece9a45a17508d6a8bcc246312dd1ebcd53ae76f1",
+      "config_sha256": "718f5913300ca43bb8af4911b3183b4b1d6dde55446998ed990dd75672441e0c",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8136968612670898,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_022_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.738229209004203,
+    "decision": {
+      "case_id": "utah_paired_022_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "bf6c767fd0ebe649b0bea7bce559723686cdb6a6ac0d42819acce94ee7f2b2b4",
+      "config_sha256": "962fd5a503e532a94690c4199dd74a1f37fa7b5c0efb708cf4930ef7a83289c0",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.0100879024016858,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_022_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.611204250002629,
+    "decision": {
+      "case_id": "utah_paired_022_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "91f60be8b1192aea4d682e7f9a5c48a5b6997100d17b6ddd9f615ec204a5986e",
+      "config_sha256": "9a3d11fa6072f8711b70df3a1eb0485c6b69c8f3822cfc33442ba7c9612d932a",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.0171963681917116,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_023_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.592566291001276,
+    "decision": {
+      "case_id": "utah_paired_023_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "187b0c610a9f0eb18ef7a484d07c070cfc3e79b2d18fc52072f46b9caaee536e",
+      "config_sha256": "6a2e56359ee0a2722c438ce3b93336aa9b9ed4cd2d4ca361ac61eb231201596b",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.3307120182937606,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_023_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.59378216600453,
+    "decision": {
+      "case_id": "utah_paired_023_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "05bddf60dc7af28ffc50a6ec9d3e858a580944107c52a0723cd7c52fac702a71",
+      "config_sha256": "b60bb7613891af7819c922692fd0526863a8e15b123efe0cfe2140f0d64b898c",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5886733531951904,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_024_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.351903957998729,
+    "decision": {
+      "case_id": "utah_paired_024_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "3e616af4c251590973ce30bd4f83dcabada27b0a215deb3dccbb6d6c962739eb",
+      "config_sha256": "100a71762f6e8c2409405bff517a7321c7e6fc21d6fd56a635d99e5aaa7485b8",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7148447865027807,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_024_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.620041542002582,
+    "decision": {
+      "case_id": "utah_paired_024_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "e29b8991be83ca02a54985b761291261c34db2bd44b9e299aa8c2599e3c6592e",
+      "config_sha256": "3379f905c69c5aedfb45326c9b8a83d3064cf1caf36f5439bbf72fa551c9f52a",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8381693363189697,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_025_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.963071459002094,
+    "decision": {
+      "case_id": "utah_paired_025_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "90f575844590c43a70009b73978847ebf4cb6c5d66510b9b99dc3a89def47a49",
+      "config_sha256": "f7ca2d9edf3fe4d3e6cf53481ec3c69300cc4369d93918674b0d508670e4e5d8",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7078042369970377,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_025_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.591717999996035,
+    "decision": {
+      "case_id": "utah_paired_025_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "e092a60464822b860aab76eac928e2374517dad3d84a3a99878866d3adee55f8",
+      "config_sha256": "bd0648a63810be1569b4b977a82abfd7f816033cdb71417e9dad47cf7cca103d",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.7314525454880441,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_026_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.553050499991514,
+    "decision": {
+      "case_id": "utah_paired_026_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "43f2932ecd712fae23f2ff69825a3a8fb84eb692722d8633d2cc47615339f54e",
+      "config_sha256": "44ea14926b529d591125d50621b7760e5599c0def8bb49c1d20f474f31313284",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.5343544483184814,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_026_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 5.84398304100614,
+    "decision": {
+      "case_id": "utah_paired_026_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "18a70959f76f5a855cc8e03e5c1094e81abd35c86639b0229002af9e3bbd400d",
+      "config_sha256": "5a5d05187a474f232f3b7f07edcee61dfa0a0d00a1fa07ea9886868d749dc21f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.36074297919431786,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_027_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.882196833001217,
+    "decision": {
+      "case_id": "utah_paired_027_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "c769208a22eddf13868b407d15a5346daf701355b2075c781a1fa2a7de44414d",
+      "config_sha256": "65cc6c358d0828a298421b0f07601325233dd098cecdb2b0a514b470ece875da",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7000398359518591,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_027_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.8634501669876045,
+    "decision": {
+      "case_id": "utah_paired_027_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6334d37c20d65db7a86fb8c8eee1fa5cfd0e70f06bbc6b1e01eeb537c0b8fc6c",
+      "config_sha256": "456a98877f98b5b9acb3eeea9927430a597d4bc520f72687f6a9f9f16741ddfd",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.6812328607497662,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_028_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.652468500004034,
+    "decision": {
+      "case_id": "utah_paired_028_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "30a09157dcd6e72700b8b849337e83384119c8174a9eeac55adb2f2fb92b47d4",
+      "config_sha256": "2773a0125bed0c92be649db1357fe3e24156ade98abaf81e0707091902c7f900",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.469078106754778,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_028_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.581570417009061,
+    "decision": {
+      "case_id": "utah_paired_028_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "433c479d06db228c95eb3d5e3333678db46215f555a551ae47f2fb113f52cdf8",
+      "config_sha256": "a65bde2a18966a6eb356f6d1750e97e273c539e1b86667c150762c75da71d1b4",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.4696403741836548,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_029_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 8.023765624995576,
+    "decision": {
+      "case_id": "utah_paired_029_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "896abf2c865a41722a298a3fd373c299b087f68e36fd6aafad01873f9cfd1932",
+      "config_sha256": "06aa336eec9ef8aa35e10ebe9c40d8c0f67d836480b029cb574574404bc08573",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.2604100704193115,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_029_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 8.177259249991039,
+    "decision": {
+      "case_id": "utah_paired_029_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "16d9ed595d021ba95b910f62c7aeae58659cf9ce02aa519e46dbc6dbd6795db6",
+      "config_sha256": "92b69e9838a5293400734a530e5cda8cfe070bf39d59c7ad0464682bd28623f3",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.3210079126216066,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_030_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.173318208006094,
+    "decision": {
+      "case_id": "utah_paired_030_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "4fa1a3a25167c60bc7d7e2dee9f83f4b2c4936b7a4e0e53567b36504f63cd356",
+      "config_sha256": "6d840a5744f2ab4a2b6d2f22be75c031ee00edc729e11e253d76dda2775336c8",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.6243955170326194,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_030_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.254162083991105,
+    "decision": {
+      "case_id": "utah_paired_030_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "ee6c9e119a94f960661440ce53a46cea914ba063776b6b438ba9cbfbaba88ec1",
+      "config_sha256": "f976b52734648e3b7e09494765da5f6d0a6c88b519c4617ecaa6d5a6201e5306",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.902736485004425,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_031_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.486061208008323,
+    "decision": {
+      "case_id": "utah_paired_031_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "c4dea9ba385235aeb7f492000d2e4f50d93308884727f18eb2e815c8e1d6e9d7",
+      "config_sha256": "57230f703924c484a39723866747d975509d1b9b477a300dc1790d7817168911",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8735261953644087,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_031_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.381396249998943,
+    "decision": {
+      "case_id": "utah_paired_031_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "e1ce34f732e4bbb3b77082473bf97b5ee3a16b7399b4cb57da04dfaf1b20007a",
+      "config_sha256": "f130e9b23af265b419d8bfed0157a337746fd15a0361cb69a6d8c582a3758d0f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5543808374201433,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_032_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.053264082991518,
+    "decision": {
+      "case_id": "utah_paired_032_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "df04095df7cf80c31d81165e5a1770250aa7bc670b80f239840f7f215806a85e",
+      "config_sha256": "30d5fe7176ad21d02a3ed76d2d85e56701e136c7ad1e8e88919920ef7ada59f7",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7570049558820082,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_032_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.996164459007559,
+    "decision": {
+      "case_id": "utah_paired_032_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "b2d2e649535f8d72e0ea9749706cfdf4721132fa694c3cdb24fb3a4f745c7448",
+      "config_sha256": "f771958cb3d7b5124ce7e204bbf1cc0d6de6cfea19d093715ebca2e055de2c8b",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.5703487396240234,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_033_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.2729240839980775,
+    "decision": {
+      "case_id": "utah_paired_033_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "1e56f87c37b4286554855dc4dd038fa9fb037b9106e2ae874920528a7ac87ab2",
+      "config_sha256": "bdfed85a7913af492c78cc9c2eae2dde55f9b0978b119ca06b9cc246b56b53a2",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.645118236541748,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_033_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.383287249991554,
+    "decision": {
+      "case_id": "utah_paired_033_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6dfced24de1adcecee6f1bc8da8542d1afe5e0ab5835c3114a7184889cc63f4c",
+      "config_sha256": "0154c52059cdced59ad48f6bc07df78ec8f02dce58b81f6bc58c671a4a45167e",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8434882638120267,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_034_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.162575750000542,
+    "decision": {
+      "case_id": "utah_paired_034_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "c80f0131c757624e430e45d02c87738a1bab7840a30e7beb7e32df8245500c91",
+      "config_sha256": "e78910add175656c605c3d4a75d335accc4182d8b3964430625c018344efce0b",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.9619948267936707,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_034_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.4453935000055935,
+    "decision": {
+      "case_id": "utah_paired_034_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "3d75d2ef603ca510d6d6879a99979ec5a7094507e312faba03c54820eafb4c26",
+      "config_sha256": "48b6787322bcab09cfdea0f023569299f7c6360c2961754df8776803534fe08f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.2316560609632063,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_035_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.441135249988292,
+    "decision": {
+      "case_id": "utah_paired_035_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "faf573b7ffef84456748e9aa821ea3d12e6ac09f8a809db96456df4916094344",
+      "config_sha256": "17d7698c5f2a01e69040e0da83f20dd61cea1725afd25484ae437434c811d038",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1812577243165134,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_035_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.308919916002196,
+    "decision": {
+      "case_id": "utah_paired_035_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "10ed17efe57765e427e3ff1c150c5fd097ec598443911513d8ff354cae9d1d24",
+      "config_sha256": "54c9fac52069bef6f87a2feea475dd9414dca2159996f583281b9ed1f82ea0f2",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.3882298171520233,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_036_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 8.359007917009876,
+    "decision": {
+      "case_id": "utah_paired_036_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "43a925404e4a41e43c89cee0304940f3f7c48448d1b02bad7323f4e38ef1dc91",
+      "config_sha256": "7e3167c0fafc602d3155e3591e1b89f92e2a07270e8390d5e26a446bdfef7c02",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.1884331703186035,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_036_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 8.020513541996479,
+    "decision": {
+      "case_id": "utah_paired_036_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "47f771df51e630565915f1d80cf129b23b6c852c344e5a8104531414ab3cac74",
+      "config_sha256": "9d840f8d7c7b636cb2596608a7ea49b0d6b1fc16d78deee475330556bf129574",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.3028024435043335,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_037_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.538516333006555,
+    "decision": {
+      "case_id": "utah_paired_037_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "744bcd7c514682c2cb0f47fb38fa1a5ed449c67a23aa95394bc3ef96bf538a13",
+      "config_sha256": "aac3898f0e2791b6d764c6b5d6711cc3fea18f119ccb3ae2f3341c7db39b03a1",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.9527257586368625,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_037_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.999552875000518,
+    "decision": {
+      "case_id": "utah_paired_037_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "806cc9de53059a678deac395373db18ec2a0c1a282fa15ad2de533781b0ef924",
+      "config_sha256": "b2b9f3e9557e29819e5f3705c59d466fdcbc6217ea44164d5095111698c3ed9d",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1063165664672852,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_038_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.8973148750083055,
+    "decision": {
+      "case_id": "utah_paired_038_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "81e64736488f2114ab8230a346106e948383f584d36cabbb84379357da5b5c58",
+      "config_sha256": "878f8f0c42ddf47cfec779debbcc5367ce64358f1dad55f38b1ecf72e5f46883",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.457584619056185,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_038_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.9599200840020785,
+    "decision": {
+      "case_id": "utah_paired_038_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6fbeeb7498e3bbb0bdeed61216cd60a22be0455c7aaf5c2cb1a5fb46c7d54b89",
+      "config_sha256": "61bdbe7c579d7c84797a41fc7b4858e96fe1ab68a8800ba35fafa12092c3b624",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.0603484081220507,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_039_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.278562291990966,
+    "decision": {
+      "case_id": "utah_paired_039_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "bfd78398a57c6fea21646a96782f9d6badd4373d8f00232e92252f9f082c4e20",
+      "config_sha256": "4a3c414f1de670e6f5e4bf6ed1ac1a21bbe80a82dcc156dfebe00418e51cb2cd",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1555501222610474,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_039_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.364201333999517,
+    "decision": {
+      "case_id": "utah_paired_039_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "971aabe81f32fc747f385bcdf347c463458cba712ea228a107967e0733db5ac0",
+      "config_sha256": "9224fc997b6d389bb671ac6a6bbe57b9a07fe1c07979e9cad47bdc0fff0423f1",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.4475245475769043,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_040_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.439534999997704,
+    "decision": {
+      "case_id": "utah_paired_040_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "ae7840af6dc6b20cc31a7c345301c6196d37e89c0cd4ff78c9651a4db158671f",
+      "config_sha256": "ea60a21942c549bf09afb7f23cf8c14074b32bc7e676f6d71a136cc347a30821",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.338761008147043,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_040_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.3247188340028515,
+    "decision": {
+      "case_id": "utah_paired_040_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "a0b3ad96f463e5a1d501efd9fb16fa30fc45f4ecd4c0febfb360c648a63303b8",
+      "config_sha256": "1b65fe1358f51dbcdb39d6fc55e63c8e88058bb9878ff1bae811bdd9f27ca4bd",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1610158681869507,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_041_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.161741709001944,
+    "decision": {
+      "case_id": "utah_paired_041_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "64edfda5efb16b2a5c0d1cc8726c566dbdfa45350eb0e72d4b9dbd5617abe240",
+      "config_sha256": "59be111ee1f7ddf8845dbb8cb3a64b62bace591ea12453a1734a6c995cd1d0ac",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.444589614868164,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_041_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.960719916998642,
+    "decision": {
+      "case_id": "utah_paired_041_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "44586e7aade75a91db5f9ca5cbb25dddb80b54ec024e733302ac097bb2d93112",
+      "config_sha256": "bd5cd710320659181c3d133196a64b22b42c8899a2d931fcd4b2a63aa004691b",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.0596920251846313,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_042_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.845136542004184,
+    "decision": {
+      "case_id": "utah_paired_042_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "a191aeb2fef0322e5ae391a4fe32d47e71fe6d8b32e6be60372bf3cd7fd5b8a7",
+      "config_sha256": "324d389a216580fe2c400b3a91054a573ca412e7acad411558af26c98e641724",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.9419039487838745,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_042_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.9948860830045305,
+    "decision": {
+      "case_id": "utah_paired_042_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "9a42b0918c7540141ecb97f38d6f023c0081928ec795ea8d2f60e91eccab7d89",
+      "config_sha256": "b4c1db593006b2fa2d1d28505985f4a18ea2ecc1dc122dd6ebac71496c5862be",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.229208469390869,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_043_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.567879958005506,
+    "decision": {
+      "case_id": "utah_paired_043_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "e42d0fe06d076c4ae2be2e8e696ef4acd5e78a11c5d2d5030fa6b29772017b27",
+      "config_sha256": "a2c7408ff0ca01b78298679412e4ccc79a0637748e042aa2b34e2c853e7685f3",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.523012509597755,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_043_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.655595333999372,
+    "decision": {
+      "case_id": "utah_paired_043_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "7155fe02ca243cd1670a6610946b25a2c9e15de92f185bfcf97feb811642b100",
+      "config_sha256": "fe926cb6681ac6e14892329bb7b12356799b48dd8e9d88887a773b7edba88a38",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.662261980539508,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_044_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.760223624994978,
+    "decision": {
+      "case_id": "utah_paired_044_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "b9ecdb430a29cd023335351d79e7da1e41c890202f1aa0c4fe3890724d0a64b1",
+      "config_sha256": "7b9b2697abd8bc9a9f52108dec8af4989d84509b886bec9b1dc49bd8fe944f46",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.579477479835161,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_044_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.947549999997136,
+    "decision": {
+      "case_id": "utah_paired_044_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "a3302b618c11d5e3cddbbb3d956122815e3f766558e3455e9345048c533f643e",
+      "config_sha256": "73eb174e8e1b9695fd5e81de7c4bef8511a1296ccf54871295fc48e893526187",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7267431650678282,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_045_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.7500745830038795,
+    "decision": {
+      "case_id": "utah_paired_045_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6759070ef69e8d80ab7f2905fd286baf941cbffb724176027a19d302bf337d9c",
+      "config_sha256": "93358b6af83282eb4d29ed2e075db8d2bb39b879b52d19c155e2d75b76203a3d",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.8660855293273926,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_045_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.908590999999433,
+    "decision": {
+      "case_id": "utah_paired_045_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "010a69ffe20088ec9e545420dfbc4a08245d5688f826bccb9cd709df824e4077",
+      "config_sha256": "9763fc18fab57c093716b76eb7f9faca00d9b38ee02af2e1da6b07beb7cb9fe0",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.2569622993469238,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_046_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.8155907500040485,
+    "decision": {
+      "case_id": "utah_paired_046_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "32b2e9c5cf354ef81cae65a090c962592bb7d915d158c64f93465cf0b893d234",
+      "config_sha256": "148b784897278c861479d1abb618d58ba2c823094fec3fa9cabf39005364c0fc",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.800223941362892,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_046_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.864207999999053,
+    "decision": {
+      "case_id": "utah_paired_046_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "33913257b77954eb484804fc4ebd05e92477a694230405cf89f4c7eb4fad37c5",
+      "config_sha256": "1ecf21211c0f621ed0e3cc2cb11aa7b100d2e29eff6d2689a2be5aa7d430247f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.843643884625642,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_047_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.029038624998066,
+    "decision": {
+      "case_id": "utah_paired_047_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "f12dff9232c58d41627749455b705654b0d273436fc2aefaf454714861d53f25",
+      "config_sha256": "9f9f03b69231067bb71b6356738c5ce99dae993412b586c12938cc3bf5b741b4",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.4845967706251275,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_047_humerus_r",
+    "status": "NOT_RUN",
+    "preparation_status": "SOURCE_REJECTED"
+  },
+  {
+    "case_id": "utah_paired_048_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.250368749999325,
+    "decision": {
+      "case_id": "utah_paired_048_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "dc0f4f3e25c276b6dc810e77e0ae86d88511a08d984b03b83054865372a1df90",
+      "config_sha256": "4c228b617150adaa8ef99083d68aa563ec2fcac4307a8849fe84fe7139134b28",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.3149974346160889,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_048_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.498353208007757,
+    "decision": {
+      "case_id": "utah_paired_048_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "932ed24d607c15e35dee274d7c85b00f60142dffa3e8adba7d76c3118eb237e3",
+      "config_sha256": "a51da873fd25ac3279ca3ecbd92051043638953eec5c543ee877b0c9d27b0af0",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.1178708814888165,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_049_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.262986041998374,
+    "decision": {
+      "case_id": "utah_paired_049_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "d0d9e23b2c16cd9ce11144a7a4998fc3f76ec24b10d1f7bf08cbff0e9829ae31",
+      "config_sha256": "e4cbf181fc3bbddc23b7552486ff5a7ee7ac1bbf2a1de10a24cdc3410d3b112f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.199702262878418,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_049_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.954644541998277,
+    "decision": {
+      "case_id": "utah_paired_049_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "a41f1fdb2fcf0da1ea71d05c612687953109684ca892515dacd7465e8d0e8fe9",
+      "config_sha256": "185d9cb905bd99b48c3782b99f479add847f74bae2b5535670677874d32700ac",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.008259117727939,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_050_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.581107666992466,
+    "decision": {
+      "case_id": "utah_paired_050_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "58ca35118c32dfecc1b6612894a68b6d6f34275cc5539653380c142fe62b767e",
+      "config_sha256": "2af3e46c377a6beea21004044e44386be9b29321ced89ff01b481775eac6b7c6",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.9931325082944469,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_050_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.4681532500108005,
+    "decision": {
+      "case_id": "utah_paired_050_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "602b990d250212a124f141317621061d5a6622e7ec2b4dcaf629639f35064664",
+      "config_sha256": "5230fba43b96bb78818144a57cec49e459df0b06f595a6f3a71359b6f971d485",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.9081653309262077,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_051_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.598870500005432,
+    "decision": {
+      "case_id": "utah_paired_051_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "a64718c2fc9ce71334b5bb2f1fa6dd522ec28ac4e355df1f6637443f0c844a83",
+      "config_sha256": "c5c90c3d11623bfb643746f9cf7b24c9bdc2244f774cf5a267701ef536fc9ef9",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.710896898715678,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_051_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.684729583997978,
+    "decision": {
+      "case_id": "utah_paired_051_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "4a01a0b97c90a656d8075b34f83a7814f7ce9030b5ca77d98db726861ea0c4db",
+      "config_sha256": "597162c028eeef3a1832066de7f71ae85493970f422236e3d8bcc6a24d28b7f4",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8071762498525625,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_052_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.070305166998878,
+    "decision": {
+      "case_id": "utah_paired_052_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "60d1454a0b1cc3dc2cd2bd4065475b145e95602bb0a76dcf083c9f74ed69c3d3",
+      "config_sha256": "00658ce818b96b689021d148ea1f6ed1c94d0330f842ee8428190b8ebd40efb6",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.6102813482284546,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_052_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.060563582999748,
+    "decision": {
+      "case_id": "utah_paired_052_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "255b5f32671f9fccfb27c91aa6d59cafd348fa20fb40b34414eb7a18847edfd6",
+      "config_sha256": "d4bf00dac032aa4808dea2492def779a8da1f33f359c12f1dddd7c2173cc5ae7",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.578612208366394,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_053_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.189345791994128,
+    "decision": {
+      "case_id": "utah_paired_053_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "58e8a075e6384a0c8062420adbf7290ae3411b1717d9c82077ff9209783524e7",
+      "config_sha256": "aef1922a06a015c4fd7405a1c48f5ddc93098b81c36f538578bb3366118d700d",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8101667174860685,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_053_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.438210708001861,
+    "decision": {
+      "case_id": "utah_paired_053_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "89fda5a0653a59899bc7567496a92dc153eb5826959d73d02976eb150b3220a8",
+      "config_sha256": "9e7734ab26d51a5c1e1b57e0eb6b28b3ba2fa4ec1991402b3dd2f77b0d5c526d",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.0278401432483313,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_054_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.730330833001062,
+    "decision": {
+      "case_id": "utah_paired_054_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "bbf1d822db493872be426fe29a58de46abed893848dae58b441b94761228a763",
+      "config_sha256": "a76d8187cc1e45b53645bcd1210b7f672a10ff388212cd8d98103886814e9584",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.9042859367020847,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_054_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.3000494169973535,
+    "decision": {
+      "case_id": "utah_paired_054_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "7410a36cb02641246b472f2ce01df9353e477869db457bfb5e9ed014a4f4aa62",
+      "config_sha256": "5d031d8f99e6a05f42a9f4691c373c3bedc1db6d89be77f53a4dacba2efa2d6c",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.9782568677297095,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_055_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.310012333007762,
+    "decision": {
+      "case_id": "utah_paired_055_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "5f00415b2bca468a0aeca07391b5c3f47b93937a6c947a897c1aa5a224da0911",
+      "config_sha256": "453f7cba26e5268684995bbf8ae9259ec5928d2dcc84a2b05ef807451038516f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 0.7855940222800413,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_055_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 7.7158065420080675,
+    "decision": {
+      "case_id": "utah_paired_055_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "7dc2783efdf9352d28e6c8cfe11e26027a025d042de10a4bcfbec95370593361",
+      "config_sha256": "31b0bef454f14d72d5b30c5697e9298cb2f7cfe37539a9453ac4461070834a6d",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1106437395295359,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_056_humerus_l",
+    "status": "NOT_RUN",
+    "preparation_status": "SOURCE_REJECTED"
+  },
+  {
+    "case_id": "utah_paired_056_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 8.171851167004206,
+    "decision": {
+      "case_id": "utah_paired_056_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "acbbce26667480d56a9c5fe3e39ebf4e5ff3887f582612a6557593be3bee8fa8",
+      "config_sha256": "c0553913a3f34c23b95d9781e26586e747b202a053a941efa042be6f491ccc7f",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.9902618158072347,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_057_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.3679594159912085,
+    "decision": {
+      "case_id": "utah_paired_057_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "8472d272307c6b98f9247e78b069d6578c9d17d890f842187681cb14c6340755",
+      "config_sha256": "2fb096e3183924596eeafbc36c667b28b00b375fa60db11fdf061b18af4b8653",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.0760620832443237,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_057_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 8.535074375002296,
+    "decision": {
+      "case_id": "utah_paired_057_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "2b36a54981d18d6458826341440960f1abbc37ae05719b8b3cee1aa2f0467fe5",
+      "config_sha256": "a03c59afced6b8c63db8311a15328e18656e2a1b056c6e375c7cd06c9ac650c1",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.7677465677261353,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_058_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.701104583000415,
+    "decision": {
+      "case_id": "utah_paired_058_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "083adfdc6284031f933fdba7a469d133c196bf60d764c78d6c2acd1e3c6059c6",
+      "config_sha256": "e372ee7bfb1e1cecf6da8d28a280a9a09ad272723429e5ed0043e5827229cd57",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.2199785709381104,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_058_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.533091874996899,
+    "decision": {
+      "case_id": "utah_paired_058_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "ba70884a5030eedbe67e167ea5fae5c26efd4bc32632021568959a36fb40ebea",
+      "config_sha256": "e3fea72f801123f84e96374396fe2780006c10c96d53746a59ff567d8c7c74f6",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 2.117883425899077,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_059_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 7.57390524999937,
+    "decision": {
+      "case_id": "utah_paired_059_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "59d43d60de3dade7f441e7a0e970ab86cafa532a7a844e668940ef9947e1273b",
+      "config_sha256": "7e82d4438987c2ed664bf45fbddfe8b8e66c10bfef648c133ec76c06e7809b1b",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.190812612319713,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_059_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.322123917008867,
+    "decision": {
+      "case_id": "utah_paired_059_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "7d9a8c9633c445ff0520e5795f50636bc716b684cb9c8f1960369f97447c0cd8",
+      "config_sha256": "245a23e327ca392f4c5facbc04d2e21136c8f9c42a93590bfa2562a4cb8001f5",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.1639275174122885,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_060_humerus_l",
+    "returncode": 0,
+    "wall_seconds": 6.262828833001549,
+    "decision": {
+      "case_id": "utah_paired_060_humerus_l",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "05ec9e6c4e582ea8ccefc3c75b335d4ed48a9caaf52d8b10286810cdbdd4d313",
+      "config_sha256": "ee145abf08eab12259e552949c1e8a80bea7b05faaf777843a4db837181439a7",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.141459887604828,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  },
+  {
+    "case_id": "utah_paired_060_humerus_r",
+    "returncode": 0,
+    "wall_seconds": 6.391887042002054,
+    "decision": {
+      "case_id": "utah_paired_060_humerus_r",
+      "accepted": true,
+      "status": "ACCEPTED",
+      "source_sha256": "6d0f09b85735863d73ab1e1e17e07c1a33e370e94e10df3144f95fc0a8a0fdf5",
+      "config_sha256": "150e751905439aa98584e5ec0d6527e7812c3e139240a715921355803ffa7afa",
+      "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+      "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+      "continuous_minimum_mm": 1.8636617240386224,
+      "threshold_mm": 0.15
+    },
+    "status": "ACCEPTED"
+  }
+]

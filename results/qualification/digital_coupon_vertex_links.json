@@ -1,0 +1,6 @@
+{
+  "checked_vertices": 13354,
+  "non_manifold_vertex_links": 0,
+  "bad_vertex_indices": [],
+  "criterion": "Every vertex link is one connected cycle with degree two at every link vertex"
+}

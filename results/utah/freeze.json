@@ -1,0 +1,53 @@
+{
+  "frozen_at_utc": "2026-11-12T20:41:46.766044+00:00",
+  "status": "LOCALLY_FROZEN_BEFORE_PREPARATION_OR_CONSTRUCTION",
+  "not_public_preregistration": true,
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "trimesh": "4.7.4",
+    "networkx": "3.5"
+  },
+  "files": {
+    "protocol": {
+      "path": "BPEX_MAJOR_REVISION_2026_11_12/external_extension_2026_11_12/PROTOCOL.md",
+      "sha256": "665469e431e75122f383adc83c5f0f4ae5735f62eb1f1fa9632fe048280d5f55"
+    },
+    "pipeline": {
+      "path": "BPEX_MAJOR_REVISION_2026_11_12/code/core/pipeline_v3.py",
+      "sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a"
+    },
+    "auditor": {
+      "path": "BPEX_MAJOR_REVISION_2026_11_12/code/core/exact_surface_clearance_blender.py",
+      "sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53"
+    },
+    "checked_runner": {
+      "path": "BPEX_MAJOR_REVISION_2026_11_12/code/run_checked.py",
+      "sha256": "a441768a94af3ab5cec1b368dcd8682cdb06d7afa7d67947fb463e7540ea8a44"
+    },
+    "checked_worker": {
+      "path": "BPEX_MAJOR_REVISION_2026_11_12/code/checked_worker_blender.py",
+      "sha256": "2d0c16d7d57a3776339de6149cd30c22a7cf80d3ebf059c30b6b60ed7c0f8dbe"
+    },
+    "prepare": {
+      "path": "benchmark/external_validation_v1/scripts/prepare_mesh_v1.py",
+      "sha256": "69bb7573930123ee01f0a8211f702f4286e9d1461d837ed547fb3849bf88592a"
+    },
+    "materialize": {
+      "path": "benchmark/external_validation_v1/scripts/make_case_config_v1.py",
+      "sha256": "bd929eb041f75d54da662d48627fa10ba862a47d34f12d18541df816e50036c8"
+    },
+    "profile": {
+      "path": "benchmark/external_validation_v1/protocol/EXTERNAL_PARAMETER_PROFILE_v1.json",
+      "sha256": "6f19a8831457d25a56ef63b99cde3b3443b9d0e8023241d71ab7f03eedafa5fd"
+    },
+    "source_api": {
+      "path": "BPEX_MAJOR_REVISION_2026_11_12/external_extension_2026_11_12/acquisition/zenodo_19077748_api.json",
+      "sha256": "d17b3867abbaeff7f2f213b490ed6a8d9e878d5c453450c9125cf766d5df7143"
+    },
+    "source_readme": {
+      "path": "BPEX_MAJOR_REVISION_2026_11_12/external_extension_2026_11_12/acquisition/README_v1.11.pdf",
+      "sha256": "f85973671406bec6428d1dfbab7a2d050794f064b7eb1c6946eaa9e637ef8748"
+    }
+  }
+}

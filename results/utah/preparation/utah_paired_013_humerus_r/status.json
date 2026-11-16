@@ -1,0 +1,11 @@
+{
+  "case_id": "utah_paired_013_humerus_r",
+  "returncode": 0,
+  "preparation_wall_seconds": 0.711468583001988,
+  "status": "PREPARED",
+  "longitudinal_length_mm": 324.9221649169922,
+  "prepared_sha256": "2eb6528743314e07a86cdad1f547a6928d41da433b98f779b713383ba240fbaf",
+  "config_sha256": "b33b40756305eacd73f38283f50c85496156658bbcc96fd40e5a31663d4d6ccd",
+  "selected_faces": 54310,
+  "preparation_report_sha256": "203d831689b9385f56a6a5279be7e8029801a2d0e52434eae3c925a8772e8ad9"
+}

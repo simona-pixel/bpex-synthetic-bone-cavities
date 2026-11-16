@@ -1,0 +1,20 @@
+[
+  "/Applications/Blender.app/Contents/MacOS/Blender",
+  "--background",
+  "--factory-startup",
+  "--threads",
+  "2",
+  "--python-exit-code",
+  "1",
+  "--python",
+  "<REVISION_ROOT>/code/checked_worker_blender.py",
+  "--",
+  "--source",
+  "<REVISION_ROOT>/external_extension_2026_11_12/inputs/prepared/utah_paired_023_humerus_r/prepared.stl",
+  "--config",
+  "<REVISION_ROOT>/external_extension_2026_11_12/configs/utah_paired_023_humerus_r.json",
+  "--case-id",
+  "utah_paired_023_humerus_r",
+  "--out",
+  "<REVISION_ROOT>/external_extension_2026_11_12/runs/utah_paired_023_humerus_r"
+]

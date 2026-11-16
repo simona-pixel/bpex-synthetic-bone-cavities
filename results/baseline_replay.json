@@ -1,0 +1,62 @@
+[
+  {
+    "case_id": "vsd_002_femur_r",
+    "historical_inner_sha256": "5e918fd27a57cd3d8be23b59c4be2b54e20eda1a1b2d5e461b1224ced0ef9ece",
+    "revision_baseline_inner_sha256": "6f1faf295e35e3cc4b0fde96b3b5619ef1447f359fdaa7e9a1eecd829ce0c7a9",
+    "byte_identical": false,
+    "triangle_coordinates_and_order_identical": true,
+    "maximum_coordinate_difference_mm": 0.0,
+    "maximum_stored_normal_component_difference": 7.749366341158748e-05,
+    "headers_identical": false
+  },
+  {
+    "case_id": "vsd_z064_femur_r",
+    "historical_inner_sha256": "47426834e1d16d86f0de3181bbcb8e1cb9f93eef17d4a321f84d1e9649efac5c",
+    "revision_baseline_inner_sha256": "847e372dfd46e5d2dbee688a7f60e57d2df5239d8a6e8c23c0007e10f567d400",
+    "byte_identical": false,
+    "triangle_coordinates_and_order_identical": true,
+    "maximum_coordinate_difference_mm": 0.0,
+    "maximum_stored_normal_component_difference": 7.300667493836954e-05,
+    "headers_identical": false
+  },
+  {
+    "case_id": "vsd_006_tibia_r",
+    "historical_inner_sha256": "3c8a8b993a66f800274fb5121f6e7a081d4c9b2ee4fd23c3355944702da7c10c",
+    "revision_baseline_inner_sha256": "62f0979cbaf98d655e68f2f297fd5a55e25af2e55587e78a07eefaad456ad6b3",
+    "byte_identical": false,
+    "triangle_coordinates_and_order_identical": true,
+    "maximum_coordinate_difference_mm": 0.0,
+    "maximum_stored_normal_component_difference": 9.355857037007809e-05,
+    "headers_identical": false
+  },
+  {
+    "case_id": "vsd_z062_tibia_r",
+    "historical_inner_sha256": "93655796b51e54101c7eca77f6edc8aed582b5895e51f3196ba3520380570fe2",
+    "revision_baseline_inner_sha256": "b46db0f93846b9aebca819fd0e9e8bb01b1fd351396009527a806c7bbcd051a9",
+    "byte_identical": false,
+    "triangle_coordinates_and_order_identical": true,
+    "maximum_coordinate_difference_mm": 0.0,
+    "maximum_stored_normal_component_difference": 9.295660856878385e-05,
+    "headers_identical": false
+  },
+  {
+    "case_id": "zenodo_6614647_humerus_r",
+    "historical_inner_sha256": "f5f86e359bf76249e3ba5ffc2d68e6c42861fd6f92ea4423ed826d4b429c024a",
+    "revision_baseline_inner_sha256": "0ddaee0a9a69930c94a21a28f8435a1fd7b6a09f82410513a08b18d43d0629bd",
+    "byte_identical": false,
+    "triangle_coordinates_and_order_identical": true,
+    "maximum_coordinate_difference_mm": 0.0,
+    "maximum_stored_normal_component_difference": 0.00018672300211619586,
+    "headers_identical": false
+  },
+  {
+    "case_id": "zenodo_6614647_ulna_r",
+    "historical_inner_sha256": "e3b5eea4c59ca30238b7c41d2c375b67f92f195ad6f7004183d3960c740e00f9",
+    "revision_baseline_inner_sha256": "5386b885b984ab5dcb7c7ee54236a6568f0c0f25ced5aa04144ebdbb182798ba",
+    "byte_identical": false,
+    "triangle_coordinates_and_order_identical": true,
+    "maximum_coordinate_difference_mm": 0.0,
+    "maximum_stored_normal_component_difference": 0.00019987020641565323,
+    "headers_identical": false
+  }
+]

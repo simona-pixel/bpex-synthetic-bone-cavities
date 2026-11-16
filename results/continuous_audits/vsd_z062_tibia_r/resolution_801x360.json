@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "case_id": "vsd_z062_tibia_r__resolution_801x360",
+  "outer_path": "<REVISION_ROOT>/analysis/runs/vsd_z062_tibia_r/resolution_801x360/vsd_z062_tibia_r_outer.stl",
+  "inner_path": "<REVISION_ROOT>/analysis/runs/vsd_z062_tibia_r/resolution_801x360/vsd_z062_tibia_r_inner_negative.stl",
+  "outer_sha256": "ddf2688d9acbc5f923b27018d28c3d0afd68b9536725c17e18962f75f8e4f02c",
+  "inner_sha256": "c95032bc40caf1b2ba6523442a09852cc6bf0307e827a1c059314493efa8599e",
+  "outer_vertex_count": 15573,
+  "inner_vertex_count": 288362,
+  "outer_triangle_count": 31142,
+  "inner_triangle_count": 576720,
+  "bidirectional_vertex_surface_upper_bound_mm": 2.9440906047821045,
+  "continuous_triangle_surface_minimum_mm": 2.944089669898515,
+  "required_clearance_mm": 0.15,
+  "continuous_clearance_pass": true,
+  "candidate_triangle_pair_count": 40123,
+  "closest_outer_triangle_index": 13148,
+  "closest_inner_triangle_index": 288467,
+  "closest_outer_point_mm": [
+    -8.088213448138555,
+    -21.787516720687805,
+    114.33265661461401
+  ],
+  "closest_inner_point_mm": [
+    -8.918692588806152,
+    -18.964628219604492,
+    114.23638153076172
+  ],
+  "closest_feature_pair": "inner_vertex_1-outer_triangle",
+  "method": "bidirectional vertex-surface upper bound; hierarchical AABB candidate enumeration; exact vertex-triangle and edge-edge triangle-pair distance",
+  "blender_version": "5.0.1",
+  "python_version": "3.11.13",
+  "elapsed_seconds": 3.5624780420039315
+}

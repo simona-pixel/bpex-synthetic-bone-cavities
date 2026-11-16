@@ -1,0 +1,18 @@
+[
+  "[1] Sauer T J, McCabe C, Abadi E, Samei E and Segars W P 2023 Surface-based anthropomorphic bone structures for use in high-resolution simulated medical imaging Phys. Med. Biol. 69 015023 doi:10.1088/1361-6560/ad1275.",
+  "[2] Prsic A, Boyajian M K, Snapp W K, Crozier J and Woo A S 2020 A 3-dimensional-printed hand model for home-based acquisition of fracture fixation skills without fluoroscopy J. Surg. Educ. 77 1341–1344 doi:10.1016/j.jsurg.2020.05.027.",
+  "[3] Fogarasi M, Coburn J C and Ripley B 2022 Algorithms used in medical image segmentation for 3D printing and how to understand and quantify their performance 3D Print. Med. 8 18 doi:10.1186/s41205-022-00145-9.",
+  "[4] Juergensen L, Rischen R, Hasselmann J, Toennemann M, Pollmanns A, Gosheger G and Schulze M 2024 Insights into geometric deviations of medical 3D-printing: a phantom study utilizing error propagation analysis 3D Print. Med. 10 38 doi:10.1186/s41205-024-00242-x.",
+  "[5] Odeh M, Levin D, Inziello J, Lobo Fenoglietto F, Mathur M, Hermsen J, Stubbs J and Ripley B 2019 Methods for verification of 3D printed anatomic model accuracy using cardiac models as an example 3D Print. Med. 5 6 doi:10.1186/s41205-019-0043-1.",
+  "[6] Keast M, Bonacci J and Fox A 2023 Statistical Shape Model of the Tibia version 4 Figshare dataset doi:10.6084/m9.figshare.20454462.v4.",
+  "[7] Keast M, Bonacci J and Fox A 2023 Geometric variation of the human tibia-fibula: a public dataset of tibia-fibula surface meshes and statistical shape model PeerJ 11 e14708 doi:10.7717/peerj.14708.",
+  "[8] Bertsatos A, Garoufi N, Athanasopoulou K and Chovalopoulou M-E 2022 Human Long Bone Dataset for csg-toolkit version 1.0.0 Zenodo doi:10.5281/zenodo.6614647.",
+  "[9] Fischer M C M 2023 Database of segmentations and surface models of bones of the entire lower body created from cadaver CT scans Sci. Data 10 763 doi:10.1038/s41597-023-02669-z.",
+  "[10] MCM-Fischer 2023 VSDFullBodyBoneModels: 3D surface models of the bones of the lower body created from CT datasets of the open source VSDFullBody collection version 3.0 Zenodo doi:10.5281/zenodo.8316967.",
+  "[11] Kistler M, Bonaretti S, Pfahrer M, Niklaus R and Büchler P 2013 The Virtual Skeleton Database: an open access repository for biomedical research and collaboration J. Med. Internet Res. 15 e245 doi:10.2196/jmir.2930.",
+  "[12] Bærentzen J A and Aanæs H 2005 Signed distance computation using the angle weighted pseudonormal IEEE Trans. Vis. Comput. Graph. 11 243–253 doi:10.1109/TVCG.2005.49.",
+  "[13] Jacobson A, Kavan L and Sorkine-Hornung O 2013 Robust inside-outside segmentation using generalized winding numbers ACM Trans. Graph. 32 33:1–33:12 doi:10.1145/2461912.2461916.",
+  "[14] Barill G, Dickson N G, Schmidt R, Levin D I W and Jacobson A 2018 Fast winding numbers for soups and clouds ACM Trans. Graph. 37 43:1–43:12 doi:10.1145/3197517.3201337.",
+  "[15] Larsen E, Gottschalk S, Lin M C and Manocha D 2000 Fast distance queries with rectangular swept sphere volumes Proc. IEEE Int. Conf. Robotics and Automation vol. 4 pp. 3719–3726 doi:10.1109/ROBOT.2000.845311.",
+  "[16] Blender Foundation 2026 Solidify Modifier Blender 5.0 Manual (accessed 26 August 2026) https://docs.blender.org/manual/en/5.0/modeling/modifiers/generate/solidify.html."
+]

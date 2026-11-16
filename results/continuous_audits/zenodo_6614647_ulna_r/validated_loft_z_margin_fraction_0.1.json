@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "case_id": "zenodo_6614647_ulna_r__validated_loft_z_margin_fraction_0.1",
+  "outer_path": "<REVISION_ROOT>/analysis/runs/zenodo_6614647_ulna_r/validated_loft_z_margin_fraction_0.1/zenodo_6614647_ulna_r_outer.stl",
+  "inner_path": "<REVISION_ROOT>/analysis/runs/zenodo_6614647_ulna_r/validated_loft_z_margin_fraction_0.1/zenodo_6614647_ulna_r_inner_negative.stl",
+  "outer_sha256": "db18bd28bc823bb12cce12c703672774f4d77f7b554e860ff2c98b383fd0c67d",
+  "inner_sha256": "62708118b88bd9fb70f8949516df4c154b244fdc74ef5a1d6dd21d0d096db855",
+  "outer_vertex_count": 100002,
+  "inner_vertex_count": 72182,
+  "outer_triangle_count": 200000,
+  "inner_triangle_count": 144360,
+  "bidirectional_vertex_surface_upper_bound_mm": 0.1348666250705719,
+  "continuous_triangle_surface_minimum_mm": 0.13266266898869997,
+  "required_clearance_mm": 0.15,
+  "continuous_clearance_pass": false,
+  "candidate_triangle_pair_count": 9457,
+  "closest_outer_triangle_index": 17152,
+  "closest_inner_triangle_index": 71978,
+  "closest_outer_point_mm": [
+    14.917334101700634,
+    -11.119455780330652,
+    93.89947915904487
+  ],
+  "closest_inner_point_mm": [
+    14.940488434649042,
+    -11.078670944563662,
+    93.77538299560547
+  ],
+  "closest_feature_pair": "outer_edge_1-inner_edge_1",
+  "method": "bidirectional vertex-surface upper bound; hierarchical AABB candidate enumeration; exact vertex-triangle and edge-edge triangle-pair distance",
+  "blender_version": "5.0.1",
+  "python_version": "3.11.13",
+  "elapsed_seconds": 3.520746624999447
+}

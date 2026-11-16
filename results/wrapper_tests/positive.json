@@ -1,0 +1,11 @@
+{
+  "case_id": "vsd_002_femur_r",
+  "accepted": true,
+  "status": "ACCEPTED",
+  "source_sha256": "c80829d511e803f8ac5e568715032043c1d1a922cddce9ce1da502298c23288e",
+  "config_sha256": "6273a0de053057ac804327c4bd4f840022d929712c126b7d412196d9da2f1d6f",
+  "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+  "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+  "continuous_minimum_mm": 3.360997437382598,
+  "threshold_mm": 0.15
+}

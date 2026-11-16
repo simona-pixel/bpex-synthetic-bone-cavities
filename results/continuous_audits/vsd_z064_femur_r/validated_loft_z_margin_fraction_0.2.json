@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "case_id": "vsd_z064_femur_r__validated_loft_z_margin_fraction_0.2",
+  "outer_path": "<REVISION_ROOT>/analysis/runs/vsd_z064_femur_r/validated_loft_z_margin_fraction_0.2/vsd_z064_femur_r_outer.stl",
+  "inner_path": "<REVISION_ROOT>/analysis/runs/vsd_z064_femur_r/validated_loft_z_margin_fraction_0.2/vsd_z064_femur_r_inner_negative.stl",
+  "outer_sha256": "7ac0e82a276135a5209ce085b3e61922a608dded9bd4193d0abadc85d40e0d72",
+  "inner_sha256": "eecf179c0dfea58aefb4d0e869a419f55dc09ff9b973b56a0a4fe4c4d8eb2100",
+  "outer_vertex_count": 18827,
+  "inner_vertex_count": 72182,
+  "outer_triangle_count": 37650,
+  "inner_triangle_count": 144360,
+  "bidirectional_vertex_surface_upper_bound_mm": 5.783915996551514,
+  "continuous_triangle_surface_minimum_mm": 5.783914361484903,
+  "required_clearance_mm": 0.15,
+  "continuous_clearance_pass": true,
+  "candidate_triangle_pair_count": 353609,
+  "closest_outer_triangle_index": 26204,
+  "closest_inner_triangle_index": 144195,
+  "closest_outer_point_mm": [
+    6.1942784851792325,
+    9.167007111620743,
+    143.96986984254173
+  ],
+  "closest_inner_point_mm": [
+    0.6067990064620972,
+    9.08899974822998,
+    145.46240234375
+  ],
+  "closest_feature_pair": "inner_vertex_2-outer_triangle",
+  "method": "bidirectional vertex-surface upper bound; hierarchical AABB candidate enumeration; exact vertex-triangle and edge-edge triangle-pair distance",
+  "blender_version": "5.0.1",
+  "python_version": "3.11.13",
+  "elapsed_seconds": 8.103361917004804
+}

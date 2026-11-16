@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py", line 225, in <module>
+    main()
+  File "<STUDY_ROOT>/benchmark/external_validation_v1/scripts/prepare_mesh_v1.py", line 177, in main
+    raise RuntimeError("Fail-closed external source: " + ", ".join(source_failures))
+RuntimeError: Fail-closed external source: source_not_watertight

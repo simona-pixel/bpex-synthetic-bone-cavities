@@ -1,0 +1,11 @@
+{
+  "case_id": "zenodo_6614647_ulna_r",
+  "accepted": false,
+  "status": "WITHHELD_CONTINUOUS_CLEARANCE",
+  "source_sha256": "8cb7bab2ea8a2586f1edef04117304fcb8c0e1a3a7003aa4e3321626df6fae89",
+  "config_sha256": "d6c94c5f22153d1b5ed8af7d8824446da648ed2abdbcf043df14c256394e0106",
+  "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+  "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+  "continuous_minimum_mm": 0.13266266898869997,
+  "threshold_mm": 0.15
+}

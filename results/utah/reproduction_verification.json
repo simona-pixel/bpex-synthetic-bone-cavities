@@ -1,0 +1,9 @@
+{
+  "portable_helper_actual_smoke_test": true,
+  "accepted_case": "utah_single_001_humerus_r",
+  "accepted_continuous_minimum_mm": 1.3914899826049805,
+  "distance_identical_to_recorded_cohort": true,
+  "source_rejected_case": "utah_paired_047_humerus_r",
+  "source_rejection_reproduced": true,
+  "not_additional_donors_or_cohort_attempts": true
+}

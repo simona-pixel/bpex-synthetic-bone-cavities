@@ -1,0 +1,66 @@
+{
+  "benchmark": {
+    "containment_guard_binary_iterations": 12,
+    "containment_guard_minimum_clearance_mm": 0.15,
+    "containment_guard_minimum_radial_scale": 0.75,
+    "containment_guard_search_step": 0.01,
+    "geometry_tolerance_mm": 0.0001,
+    "random_seed": 20260825,
+    "self_intersection_epsilon_mm": 1e-06,
+    "validated_loft_angles": 180,
+    "validated_loft_radial_safety_mm": 0.2,
+    "validated_loft_sections": 401,
+    "validated_loft_z_margin_fraction": 0.15,
+    "validated_loft_z_margin_mm": 5.0,
+    "validated_spine_grid_size": 17
+  },
+  "bones": {
+    "vsd_006_tibia_r": {
+      "analysis_scope": "external_validation_portability",
+      "inner_filename": "vsd_006_tibia_r_inner_negative.stl",
+      "label": "vsd_006_tibia_r",
+      "outer_filename": "vsd_006_tibia_r_outer.stl",
+      "parameters": {
+        "canal_ratio_diaphyse": 0.6,
+        "canal_ratio_isthme": 0.5,
+        "canal_ratio_metaphyse": 0.84,
+        "decimate_ratio": 1.0,
+        "dist_epi_plateau_mm": 15.133844604492188,
+        "dist_epi_shell_min_mm": 1.3242114028930665,
+        "dist_epi_to_meta_fade_mm": 18.917305755615235,
+        "dist_meta_shell_min_mm": 0.9458652877807617,
+        "dist_meta_to_zero_fade_mm": 34.05115036010742,
+        "end_zone_dist_mm": 37.83461151123047,
+        "end_zone_prox_mm": 37.83461151123047,
+        "flare_dist_mm": 30.267689208984375,
+        "flare_prox_mm": 30.267689208984375,
+        "half_diaphyse": 0.44,
+        "half_isthme": 0.15,
+        "merge_distance_mm": 0.001,
+        "nb_sections": 160,
+        "prox_epi_plateau_mm": 15.133844604492188,
+        "prox_epi_shell_min_mm": 1.3242114028930665,
+        "prox_epi_to_meta_fade_mm": 18.917305755615235,
+        "prox_meta_shell_min_mm": 0.9458652877807617,
+        "prox_meta_to_zero_fade_mm": 34.05115036010742,
+        "rmin_absolute_mm": 1.5133844604492188,
+        "smooth_iterations": 0,
+        "spine_smooth_window": 6,
+        "terminal_backing_offset_mm": 1.1350383453369142,
+        "use_decimate": false,
+        "z_window_ratio": 0.018
+      }
+    }
+  },
+  "case_materialization": {
+    "case_id": "vsd_006_tibia_r",
+    "longitudinal_length_mm": 378.3461151123047,
+    "prepared_report": "<STUDY_ROOT>/benchmark/external_validation_v1/runs/20260825_vsd_v3_holdout_v1/cases/vsd_006_tibia_r/prepared_report.json"
+  },
+  "external_profile_id": "portable_symmetric_diaphyseal_long_bone_v1",
+  "methods": {
+    "solidify": {}
+  },
+  "schema_version": 3,
+  "revision_analysis_role": "exploratory parameter sensitivity; reused subjects"
+}

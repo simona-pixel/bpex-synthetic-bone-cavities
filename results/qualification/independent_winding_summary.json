@@ -1,0 +1,101 @@
+[
+  {
+    "case_id": "analytic_L_prism",
+    "queries": 324,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 324,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 0.0028761249996023253,
+    "maximum_distance_to_integer_winding": 2.220446049250313e-16
+  },
+  {
+    "case_id": "analytic_cube",
+    "queries": 324,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 324,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 0.0017587909969734028,
+    "maximum_distance_to_integer_winding": 5.551115123125783e-16
+  },
+  {
+    "case_id": "analytic_square_tunnel",
+    "queries": 324,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 324,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 0.0024465000024065375,
+    "maximum_distance_to_integer_winding": 6.661338147750939e-16
+  },
+  {
+    "case_id": "vsd_002_femur_r",
+    "queries": 256,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 0,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 1.0242745839932468,
+    "maximum_distance_to_integer_winding": 2.220446049250313e-16
+  },
+  {
+    "case_id": "vsd_006_tibia_r",
+    "queries": 256,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 0,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 0.7679090420133434,
+    "maximum_distance_to_integer_winding": 2.220446049250313e-16
+  },
+  {
+    "case_id": "vsd_z062_tibia_r",
+    "queries": 256,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 0,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 0.980793166992953,
+    "maximum_distance_to_integer_winding": 3.5339496460705744e-16
+  },
+  {
+    "case_id": "vsd_z064_femur_r",
+    "queries": 256,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 0,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 1.0984580000076676,
+    "maximum_distance_to_integer_winding": 2.220446049250313e-16
+  },
+  {
+    "case_id": "zenodo_6614647_humerus_r",
+    "queries": 256,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 0,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 5.759623666002881,
+    "maximum_distance_to_integer_winding": 1.9984014443252818e-15
+  },
+  {
+    "case_id": "zenodo_6614647_ulna_r",
+    "queries": 256,
+    "parity_winding_disagreements": 0,
+    "nearest_face_winding_disagreements": 0,
+    "known_expected_queries": 0,
+    "winding_expected_errors": 0,
+    "parity_expected_errors": 0,
+    "numpy_seconds": 5.5846927920065355,
+    "maximum_distance_to_integer_winding": 4.440892098500626e-16
+  }
+]

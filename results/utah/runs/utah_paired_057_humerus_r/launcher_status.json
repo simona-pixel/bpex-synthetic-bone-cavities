@@ -1,0 +1,17 @@
+{
+  "case_id": "utah_paired_057_humerus_r",
+  "returncode": 0,
+  "wall_seconds": 8.535074375002296,
+  "decision": {
+    "case_id": "utah_paired_057_humerus_r",
+    "accepted": true,
+    "status": "ACCEPTED",
+    "source_sha256": "2b36a54981d18d6458826341440960f1abbc37ae05719b8b3cee1aa2f0467fe5",
+    "config_sha256": "a03c59afced6b8c63db8311a15328e18656e2a1b056c6e375c7cd06c9ac650c1",
+    "pipeline_sha256": "ec204ddfce38d4832ca1e06bf39ff091d77bc7eb82a21d19d272aee27deac01a",
+    "auditor_sha256": "68d97e836a97a67b7177a68fe988bbc373025188f62b93efed63d333bd5baf53",
+    "continuous_minimum_mm": 1.7677465677261353,
+    "threshold_mm": 0.15
+  },
+  "status": "ACCEPTED"
+}
